@@ -1,5 +1,5 @@
 ---
-title: Custom Consoles
+title: Custom Planets
 type: docs
 ---
 

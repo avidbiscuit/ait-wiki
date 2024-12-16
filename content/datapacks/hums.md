@@ -1,5 +1,5 @@
 ---
-title: Custom Consoles
+title: Custom Hums
 type: docs
 ---
 

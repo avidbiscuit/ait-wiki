@@ -24,17 +24,17 @@ Oooh! In [AIT Additons](https://discord.gg/aYEtPD24bF) Discord Server we'll love
 ## Where can I start?
 You can learn on about the Mod through out these groups:
 {{< cards >}}
-  {{< card link="blocks/_index" title="Blocks" image="images/new_tardis_interiors.png" subtitle="Information on about blocks that you can find in Adventures In Time!" >}}
-  {{< card link="changelogs/_index" title="Changelogs" image="images/new_tardis_interiors.png" subtitle="Information on what each update adds from 1.1.0 to 1.2.0!" >}}
-  {{< card link="datapacks/_index" title="Datapacks" image="images/new_tardis_interiors.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
-  {{< card link="development/_index" title="Contributing & addon development" image="images/new_tardis_interiors.png" subtitle="Information on about how you should code when contributing in Adventures In Time or in your AIT Addon!" >}}
-  {{< card link="items/_index" title="Items" image="items/images/sonic/in_port.png" subtitle="Information on about items that you can find in Adventures In Time!" >}}
-  {{< card link="mechanics/_index" title="Mechanics" image="images/new_tardis_interiors.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}
+  {{< card link="blocks/_index" title="Blocks" image="images/blocks.png" subtitle="Information on about blocks that you can find in Adventures In Time!" >}}
+  {{< card link="changelogs/_index" title="Changelogs" image="images/changelog.png" subtitle="Information on what each update adds from 1.1.0 to 1.2.0!" >}}
+  {{< card link="datapacks/_index" title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
+  {{< card link="development/_index" title="Contributing & addon development" image="images/development.png" subtitle="Information on about how you should code when contributing in Adventures In Time or in your AIT Addon!" >}}
+  {{< card link="items/_index" title="Items" image="images/items.png" subtitle="Information on about items that you can find in Adventures In Time!" >}}
+  {{< card link="mechanics/_index" title="Mechanics" image="images/mechanics.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}
   
 {{< /cards >}}
 
 But if you are new to the mod you'll probably want to know how to start. Here are some pages you might want to look at:
 {{< cards >}}
-  {{< card link="mechanics/obtaining-tardis" title="Obtaining your TARDIS" image="images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
+  {{< card link="mechanics/obtaining-tardis" title="Obtaining your TARDIS" image="mechanics/images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
   {{< card link="items/sonic" title="Sonic Screwdriver" image="items/images/sonic/in_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks,  and is the most important tool for a TARDIS user." >}}
 {{< /cards >}}

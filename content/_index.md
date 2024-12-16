@@ -29,7 +29,7 @@ You can learn on about the Mod through out these groups:
   {{< card link="datapacks/_index" title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
   {{< card link="development/_index" title="Contributing & addon development" image="images/development.png" subtitle="Information on about how you should code when contributing in Adventures In Time or in your AIT Addon!" >}}
   {{< card link="items/_index" title="Items" image="images/items.png" subtitle="Information on about items that you can find in Adventures In Time!" >}}
-  {{< card link="mechanics/_index" title="Mechanics" image="images/mechanics.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}
+  {{< card link="mechanics/_index" title="Mechanics" image="images/mechanic.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}
   
 {{< /cards >}}
 

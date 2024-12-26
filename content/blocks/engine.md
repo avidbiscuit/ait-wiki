@@ -6,6 +6,7 @@ params:
         - blocks/images/engine_stuff_blocks/engine.png
 ---
 
+![Engine!!](blocks/images/engine_stuff_blocks/engine.png)
 ## WHY IS IT SO BIG??
 
 Its a engine for a interdimensional space ship thats bigger on the inside,sorry but that thing is not gonna be 2 blocks tall and fit right under ya console.

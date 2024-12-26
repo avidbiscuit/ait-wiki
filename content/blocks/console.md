@@ -69,6 +69,8 @@ The **Randomiser Control** does exactly what is says on the tin. This control ra
 
 The **Shield Control** has 2 functional modes, being visible shields and invisible shields, find more information in the mechanics section.
 
+The **Telepathic circuits** have 2 functions,the first one is locating the closest sturcture,or if you have a nether star and you use it on them it'll initiate self destruction.
+
 ![Default Console](images/console/console.png)
 
 {{< callout type="info" >}}

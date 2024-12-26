@@ -3,8 +3,6 @@ title: Subsystems/Circuits
 type: docs
 ---
 
-![demat](images/blueprint.png)
-
 ## Subsystems/circuits
 
 These new subsystems/circuits are needed to activate and or use certain functions of the TARDIS,they'll need power.

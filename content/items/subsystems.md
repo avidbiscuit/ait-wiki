@@ -26,15 +26,35 @@ Blueprints and the fabricator!
 
 * Backup circuit,collects artron when refuling and if the TARDIS runs out of power the circuit will provide it to the TARDIS.
 ![backup](images/circuits/bc.png)
+
+
+
+
 * Chameleon circuit,needed to switch exteriors,cloak and use the adaptive exterior.
 ![sneaky sneaky](images/circuits/cc.png)
+
+
+
 * Desperation circuit,allows the usage of siege mode/protocols.
 ![cube](images/circuits/desperation.png)
+
+
+
+
 * Gravitational circuit,unlocks anti-mavs and RWF (once RWF is implemented)
 ![mavity](images/circuits/gc.png)
+
+
+
 * Life support,gives constant regeneration within the TARDIS.
 ![life](images/circuits/ls.png)
+
+
+
 * Stabalisers,unlocks P116 (auto-pilot)
 ![auto-pilot](images/circuits/s.png)
+
+
+
 * Shield circuit,unlocks both shield types
 ![mavity](images/circuits/sc.png)

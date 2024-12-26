@@ -25,8 +25,8 @@ You're also able to add your own custom desktops with [**Datapacks**](../../data
 
 ## Changing the Hum
 1. Open the monitor by using the control or monitor block.
-2. Navigate to the desktop settings screen by pressing **"Desktop Settings"**.
-3. Use the arrows to change the selected hum (currently only have the **Coral** & **Toyota** hums).
+2. Navigate to the desktop settings screen by pressing the button
+3. Use the arrows to change the selected hum 
 4. Click **"Apply"** to select the active hum.
 
 ## Changing the Name

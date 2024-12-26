@@ -6,6 +6,8 @@ params:
         - blocks/images/czb.png
 ---
 
+
+![Compat Zeiton](images/czb.png)
 ## What is this used for?
 Since 1.2.0 compact zeiton's usage is to be used for some structures and crafting.
 

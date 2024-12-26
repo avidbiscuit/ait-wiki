@@ -21,7 +21,7 @@ If you shift click the door when it's closed both doors will open.
 
 Clicking the **Interior Door** with a **Linked Key (any type)** will lock the TARDIS and close the **TARDIS Door** (if it was open) clicking it again would unlock it.
 
-If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Default Keybind is "**V**") will open the **TARDIS Door**
+If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Default Keybind is "**V**") will open the **TARDIS Door** however this requires loyalty!
 
 Opening the **Interior Door** while in flight would cause most entitys (including players) inside the **TARDIS Interior** will be sucked towards the door and would be located at the previous TARDIS Location.
 

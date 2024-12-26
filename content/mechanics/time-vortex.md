@@ -14,6 +14,6 @@ In the 1.2.0 update we introduced the ***time vortex***,which is very customizab
 * It also spins,the higher your throttle speed the faster it spins.
 
 
-* Here is a video made by tendo showing the vortex off,showing how to change it and such.
+* Here is a video made by tendo showing the vortex off,how to change it and such.
 https://www.youtube.com/watch?v=RNoBqEpZ_BM
 

@@ -49,3 +49,4 @@ On the console, find "Protocol 19" and use a key linked to that TARDIS and click
 
 # Protocol "Self-Destruct"
 This is a special kind of protocol that cannot be triggerd via its own button,instead give the TARDIS a nether star via the telepathic circuits,this makes the message "SELF DESTRUCT INITIATED ABORT SHIP" appear to anyone in the interior,once evryone has vacated the interior the TARDIS locks itself as the TARDIS star within goes critial and blows up,resulting in a medium sized explosion where the TARDIS was.
+{{< callout type="warning" >}} Self destruct CANNOT be canceld once triggerd,so only let the people you trust enter your interior,otherewise you might lose your TARDIS. {{< /callout >}}

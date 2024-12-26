@@ -13,7 +13,7 @@ type: docs
 *  Artron Mercurial Link
 * Data Mercurial Link
 * Vortex Mercurial Link
-![stuff](images/resourceall.png)
+![stuff](images/resourcesall.png)
 ## What are these things?
 
 These are the new resources that are used to craft things via the fabricator n blueprints.

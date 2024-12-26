@@ -17,3 +17,7 @@ The engine is now required for your TARDIS to boot up,if the engine is at low du
 
 You'll also have to link the engine to generalized subsystem cores via fluid links.
 
+## How do i get it?
+
+Via the fabricator,you'll need a engine blueprint.
+

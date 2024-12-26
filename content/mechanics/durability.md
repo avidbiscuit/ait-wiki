@@ -15,3 +15,6 @@ Depends,circuits/subsystems wont break if you run out of it but they'll malfunct
 
 * Chameleon circuit will randomize instead of selecting the designated exterior
 * Demat circuit can engine phase if under 10 durability,this causes the circuit to break.
+
+## How do i see durability?
+  Sonic in scanning mode.

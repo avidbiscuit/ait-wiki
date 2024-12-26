@@ -2,7 +2,7 @@
 title: Time Vortex
 type: docs
 ---
-{{< callout type="warning" >}}  WARNING,THIS IS DISABLED BY DEFAULT,YOU'LL NEED TO ENABLE IT VIA CONFIG {{< /callout >}}
+{{< callout type="warning" >}}  WARNING,THIS IS ***DISABLED BY DEFAULT***,YOU'LL NEED TO ENABLE IT VIA CONFIG,AND THIS ***DOES NOT WORK WITH SHADERS*** {{< /callout >}}
 * Enable it either via /owo-config ait (scroll down and enable it)
 * Or via the config within the files!
 

@@ -47,6 +47,6 @@ Hail Mary Mode also requires [Artron energy](../../mechanics/artron) to operate,
 # Protocol 19 (AKA **Isomorphic Security**)
 On the console, find "Protocol 19" and use a key linked to that TARDIS and click on the control. Once that's done, anyone that has a key that's linked to the current TARDIS can use the console, but anyone without cannot interact with it at all,though via the security menue your able to change at what loyalty ranking players are allowed to interact with the console while P19 is active.
 
-# Protocol "Self-Destruct"
+# Protocol 000 (AKA ***Self-Destruct***)
 This is a special kind of protocol that cannot be triggerd via its own button,instead give the TARDIS a nether star via the telepathic circuits,this makes the message "SELF DESTRUCT INITIATED ABORT SHIP" appear to anyone in the interior,once evryone has vacated the interior the TARDIS locks itself as the TARDIS star within goes critial and blows up,resulting in a medium sized explosion where the TARDIS was.
 {{< callout type="warning" >}} Once self destruct is enabled it cannot be stopped,so you better only let trustworthy people get inside your TARDIS,incase it is activated grab whatever you can from your interior. {{< /callout >}}

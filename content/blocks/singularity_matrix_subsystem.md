@@ -1,5 +1,5 @@
 ---
-title: Engine Core
+title: Singularity Matrix Subsystem
 type: docs
 params:
     images:

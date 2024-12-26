@@ -5,6 +5,7 @@ params:
     images:
         - blocks/images/zcb.png
 ---
+![Compat Zeiton](images/zcb.png)
 ## What is this used for?
 Zeiton cobble's main usage is to be used in crafting recepies or used to setup certain subsystems.
 

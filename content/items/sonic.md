@@ -75,6 +75,7 @@ Once the repair has finished the Sonic Screwdriver should pop out of the **TARDI
 If you don't know what block can be interacted with a Sonic Screwdriver, make sure you have the Sonic Screwdriver in your hand and if you face a block (that can be interacted with a sonic then the crosshair should look a bit like the Sonic Screwdriver).
 
 Some blocks would need to be interacted in the **Interaction** Mode or the **Overdrive** Mode.
+***The sonic can be used to cancel out engine phasing aswell***
 
 ![Sonic Screwdriver Crosshair](images/sonic/crosshair.png)
 

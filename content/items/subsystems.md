@@ -24,7 +24,7 @@ Blueprints and the fabricator!
 * Demat circuit,needed to demateralize and remateralize.
 ![demat](images/circuits/dc.png)
 
-* Backup circuit,collects artron when refuling and if the TARDIS runs out of power the circuit will provide it to the TARDIS.
+* Backup circuit,transfers artron to the TARDIS once it runs out of power.
 ![backup](images/circuits/bc.png)
 ‎ ‎ 
 ‎ ‎ 

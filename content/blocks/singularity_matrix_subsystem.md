@@ -8,7 +8,7 @@ params:
 
 ![Image of the SMS](images/sms/sms1.png)
 
-The Singularity Matrix Subsystem is a new essential block,as its used for the interior 
+The Singularity Matrix Subsystem is a "new" essential block/item,as its used for the interior 
 
 ## How do I get the SMS?
 [Zeiton cage](../../blocks/zeiton_cage.md)

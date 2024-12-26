@@ -10,6 +10,7 @@ type: docs
 In the 1.2.0 update we introduced the ***time vortex***,which is very customization and has data pack support,its behind the door and can be viewed by opening them mid flight,and its bigger on the outside!
 ![vortex](images/vortex.png)
 
+* Some people have noted that they feel wierd after staring into the vortex for prolonged periods of times,but thats probably nothin.
 * It also spins,the higher your throttle speed the faster it spins.
 
 

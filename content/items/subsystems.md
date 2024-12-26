@@ -21,9 +21,11 @@ Blueprints and the fabricator!
 
 * Demat circuit,needed to demateralize and remateralize.
 ![demat](images/circuits/dc.png)
+* Has a structure
 
 * Backup circuit,transfers artron to the TARDIS once it runs out of power.
 ![backup](images/circuits/bc.png)
+* Has a structure
 ‎ ‎ 
 ‎ ‎ 
 ‎ ‎ 
@@ -41,11 +43,13 @@ Blueprints and the fabricator!
 
 * Gravitational circuit,unlocks anti-mavs and RWF (once RWF is implemented)
 ![mavity](images/circuits/gc.png)
+* Has a structure
 
 ‎ ‎ 
 ‎ ‎ 
 * Life support,gives constant regeneration within the TARDIS.
 ![life](images/circuits/ls.png)
+* Has a structure
 
 ‎ ‎ 
 ‎ ‎ 
@@ -56,3 +60,4 @@ Blueprints and the fabricator!
 ‎ ‎ 
 * Shield circuit,unlocks both shield types
 ![mavity](images/circuits/sc.png)
+* Has a structure

@@ -23,6 +23,6 @@ These are the new resources that are used to craft things via the fabricator n b
 * The rest have their own crafting recopies.
 
 ## WARNING BULB AND CONDENSER DONT HAVE RECEPIES
-+ Here are the recepies of the non blueprint items
-![inductor recepie](images/ir.png)
-![manip recepie](images/mr.png)
+* Here are the recepies of the non blueprint items
+* ![inductor recepie](images/ir.png)
+* ![manip recepie](images/mr.png)

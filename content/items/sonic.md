@@ -43,6 +43,7 @@ The sonic has 5 modes, those being:
 
 #### Scanning Mode
 **Scanning** mode allows the Sonic Screwdriver to tell you what console controls are by hovering over the [**Control Entities**](../../blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes. It will also confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
+In addition,hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability.
 
 #### TARDIS Mode
 **TARDIS** mode allows the Sonic Screwdriver to set the destination of the TARDIS wherever you right-click, as long as it's available to land, and deactivates the handbrake.

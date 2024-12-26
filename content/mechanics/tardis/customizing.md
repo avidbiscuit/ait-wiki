@@ -35,3 +35,11 @@ To change the TARDIS name, follow these steps:
 1. Rename a **name tag** to the desired nickname
 2. Right-click the **renamed name tag** on the **Telepathic Circuits**.
 3. Enjoy!
+
+## Changing the Vortex
+1. Open the monitor
+2. Go to the 2nd tab
+3. Switch between the hum tab
+4. When you see the vortex tab appear select the vortex you want.
+5. Enjoy!
+

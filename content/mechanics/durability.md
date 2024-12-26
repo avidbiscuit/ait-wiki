@@ -8,6 +8,8 @@ Yes yes i get it durability might seem scary at first,but fear not as our durabi
 
 * To increase durability simply right click the subsystem/circuit with zeiton or iron,this increases the durability by 5.
 * Not all subsystems/circuits have durability.
+* Subsystems/circuits do not break when they get to 0 durability,they just stop working till you repair them.
+* The only exeption for this is the demat circuit which can break due to engine phasing.
 
 ## What if i run out of durability?
 

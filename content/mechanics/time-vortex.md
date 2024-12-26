@@ -7,7 +7,7 @@ type: docs
 * Or via the config within the files!
 
 ## The time vortex!
-In the 1.2.0 update we introduced the ***time vortex***,which is very customizable and has data pack support,its behind the door and can be viewed by opening them mid flight,and its bigger on the outside! (which we did not steal from a certain mod name of Tardis Refined :3)
+In the 1.2.0 update we introduced the ***time vortex***,which is very customizable and has data pack support,its behind the door and can be viewed by opening them mid flight,and its bigger on the outside!
 ![vortex](images/vortex.png)
 
 * Some people have noted that they feel wierd after staring into the vortex for prolonged periods of times,but thats probably nothin.

@@ -1,5 +1,5 @@
 ---
-title: Gallifrey_Falls
+title: Gallifrey Falls
 type: docs
 params:
     images:

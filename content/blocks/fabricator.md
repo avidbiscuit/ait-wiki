@@ -14,6 +14,7 @@ Right click it with a blueprint, and it'll ask you to give it certain items,once
 Do note that once you give the fabricator a blueprint the required ammount of resources isent always the same.
 
 This dosent even use up the blueprint!
+* You wont need JEI or anything as the fabricator tells you what items you need to give it.
 
 ## Recepie?
 

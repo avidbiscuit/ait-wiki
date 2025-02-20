@@ -25,7 +25,7 @@ If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Def
 
 Opening the **Interior Door** while in flight would cause most entitys (including players) inside the **TARDIS Interior** will be sucked towards the door and would be located at the previous TARDIS Location.
 
-When your in flight you can hear when you are near the **Interior Door** the sound of the vortex and when landed if theres lava infront of The TARDIS then you can hear bubbling noises from the lava and even water! You can also hear the weather outside too.
+When your in flight and are near the **Interior Door** you can hear the sound of the vortex and when landed (if theres lava or water infront of The TARDIS) you can hear bubbling noises! This also happend if there is weather outside too. Also during flight, you can see the time-vortex (this is enabled in the AIT-config `/ait-confic`, you can change what it looks like in the monitor by pressing the buttons next to "hum"). For this i recommend you turn on the shields so you dont get pulled out, and if you disable p116 you will start to spin.
 
 ![Police Box Interior Door](images/interior_door/policebox_interior_door.png)
 

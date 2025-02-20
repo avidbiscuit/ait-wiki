@@ -4,7 +4,7 @@ next: mechanics/obtaining-tardis
 type: docs
 ---
 {{< callout type="warning" >}}
-  If you find any bugs / crashes, please create a [GitHub Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the support channel in the [The Tavarn](https://discord.gg/D5Et6Ux7BS) discord.
+  If you find any bugs / crashes, please create a [GitHub Issue](https://github.com/Loqor/ait/issues/new) or ask for help in the support channel in the [Amble Labs](https://discord.gg/D5Et6Ux7BS) discord.
 {{< /callout >}}
 
 Welcome to the **Adventures In Time: Wiki**, Here you can find out on the most useless features to the best ones in the mod to even learning about making datapacks for the mod! 
@@ -15,7 +15,7 @@ AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also be fou
 
 ## AIT is fantastic! Is there anywhere I can talk about the mod?
 
-Yes, in [The Tavarn](https://discord.gg/D5Et6Ux7BS) where you can talk about the mod, show of your interiors, post your AIT Datapacks, pay to get beta previews and even play with other people in the **AIT Server**!
+Yes, in [Amble Labs](https://discord.gg/D5Et6Ux7BS) where you can talk about the mod, show of your interiors, post your AIT Datapacks, pay to get beta previews and even play with other people in the **AIT Server**!
 
 ## I've made a super cool mod for AIT! But I don't know where to publish it?
 
@@ -35,6 +35,6 @@ You can learn on about the Mod through out these groups:
 
 But if you are new to the mod you'll probably want to know how to start. Here are some pages you might want to look at:
 {{< cards >}}
-  {{< card link="mechanics/obtaining-tardis" title="Obtaining your TARDIS" image="mechanics/images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
+  {{< card link="mechanics/obtaining-tardis" title="Obtaining your TARDIS" image="mechanics/images/tardis/images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
   {{< card link="items/sonic" title="Sonic Screwdriver" image="items/images/sonic/in_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks,  and is the most important tool for a TARDIS user." >}}
 {{< /cards >}}

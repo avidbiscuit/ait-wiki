@@ -26,7 +26,7 @@ You can learn on about the Mod through out these groups:
 {{< cards >}}
   {{< card link="blocks/" title="Blocks" image="images/blocks.png" subtitle="Information on about blocks that you can find in Adventures In Time!" >}}
   {{< card link="changelogs/" title="Changelogs" image="images/changelog.png" subtitle="Information on what each update adds from 1.1.0 to 1.2.0!" >}}
-  {{< card link="datapacks/ title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
+  {{< card link="datapacks/" title="Datapacks" image="images/datapack.png" subtitle="Information on how to make custom Datapacks for Adventures In Time!" >}}
   {{< card link="development/" title="Contributing & addon development" image="images/development.png" subtitle="Information on about how you should code when contributing in Adventures In Time or in your AIT Addon!" >}}
   {{< card link="items/" title="Items" image="images/items.png" subtitle="Information on about items that you can find in Adventures In Time!" >}}
   {{< card link="mechanics/" title="Mechanics" image="images/mechanic.png" subtitle="Information on how your TARDIS works and how you can pilot it!" >}}

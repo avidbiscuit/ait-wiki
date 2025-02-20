@@ -11,7 +11,7 @@ Here are some Important blocks for **The TARDIS** that you'll need:
 {{< cards >}}
   {{< card link="console" title="Console" image="images/console.png" subtitle="The TARDIS console is the main control unit of the TARDIS." >}}
   {{< card link="engine" title="Engine" image="images/engine_stuff_blocks/engine.png" subtitle="The Engine is the Heart of the TARDIS giving it life." >}}
-  {{< card link="door" title="Interior Door" image="images/console.png" subtitle="How else would you be able to get out your TARDIS?" >}}
+  {{< card link="door" title="Interior Door"image="images/interior_door/policebox_interior_door.png6" subtitle="How else would you be able to get out your TARDIS?" >}}
 {{< /cards >}}
 
 These blocks are fun extras that you can use to improve your TARDIS:

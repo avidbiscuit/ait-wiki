@@ -30,6 +30,7 @@ These are the new resources that are used to craft things via the fabricator n b
 * The rest have their own crafting recopies.
 
 ## Here are the recepies of the non blueprint items
+
 ![inductor recepie](images/ind.png)
 ![manip recepie](images/manip.png)
 ![condenser recepie](images/cond.png)

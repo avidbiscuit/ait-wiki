@@ -52,7 +52,7 @@ If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned
 ## Sonic Settings & Configuration
 By default, you receive the "Prime" when crafting it or by getting it from the creative menu but there is a way to modify the Sonic Screwdriver casing, check it's power, see what TARDIS it's linked to and what casing it has.
 
-![Sonic Settings Menu](images/sonic/settings.png)
+![Sonic Settings Menu](images/sonic/sonic-settings.png)
 
 To change the sonic casing, right-click on the **Sonic Port** whilst holding the Sonic Screwdriver, then when it's in, go to the [**Monitor**](../../blocks/monitor) and click on **Settings** and click onto **Sonic Settings** now you will be able to view the Sonic Screwdriver's data but also the buttons for switching TARDIS Interiors & Exteriors. 
 

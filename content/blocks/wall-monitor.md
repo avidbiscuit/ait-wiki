@@ -15,7 +15,7 @@ The TARDIS Menu is included with the [**TARDIS Console**](../console) and the [M
 ![Monitor Menu](images/monitor/screen.png)
 
 ## Recipe
-![crafting-grid](images/monitor/wallmonitor_recipe.png)
+![crafting-grid](images/monitor/wall-monitor_recipe.png)
 
 ## Customizing your TARDIS
 In the monitor you can customise your TARDIS like the Exterior, Interior and the Hum. For how to change it is said in [**Customizing your TARDIS**](../../mechanics/customizing) page.

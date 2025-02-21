@@ -29,10 +29,12 @@ These are the new resources that are used to craft things via the fabricator n b
 * All the fluid/mercurial links are made via the fabricator as they have blueprints
 * The rest have their own crafting recopies.
 
-## WARNING BULB AND CONDENSER DONT HAVE RECEPIES
-* Here are the recepies of the non blueprint items
-* ![inductor recepie](images/ir.png)
-* ![manip recepie](images/mr.png)
+## Here are the recepies of the non blueprint items
+![inductor recepie](images/ir.png)
+![manip recepie](images/mr.png)
+![condenser recepie](images/cond.png)
+![bulb recepie](images/bulb.png)
+
 
 # Subsystems/circuits
 
@@ -53,29 +55,15 @@ Blueprints and the fabricator!
 * Demat circuit,needed to demateralize and remateralize.
 
 * Backup circuit,transfers artron to the TARDIS once it runs out of power.
-‎ ‎ 
-‎ ‎ 
-‎ ‎ 
 
 * Chameleon circuit,needed to switch exteriors,cloak and use the adaptive exterior.
 
-‎ ‎ 
-‎ ‎ 
 * Desperation circuit,allows the usage of siege mode/protocols.
-
-‎ ‎ 
-‎ ‎ 
 
 * Gravitational circuit,unlocks anti-mavs and RWF
 
-‎ ‎ 
-‎ ‎ 
 * Life support,gives constant regeneration within the TARDIS.
 
-‎ ‎ 
-‎ ‎ 
 * Stabalisers,unlocks P116 (auto-pilot)
 
-‎ ‎ 
-‎ ‎ 
 * Shield circuit,unlocks both shield types

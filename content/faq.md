@@ -7,17 +7,17 @@ type: docs
 A: There's a semi-official discord server, [AIT Addons](https://discord.gg/jz3mPsDEdT)
 
 #### Q: How do I make a mod addon?
-A: If you want to make a mod addon, refer to [this article](https://pavatus.github.io/ait-wiki/development/).
+A: If you want to make a mod addon, refer to [this article](../development/).
 
 #### Q: How do I make a datapack addon?
-A: If you want to make a datapack addon, refer to [this article](https://pavatus.github.io/ait-wiki/datapacks/).
+A: If you want to make a datapack addon, refer to [this article](../datapacks/).
 
 #### Q: What do I choose: datapack or mod for making an addon for AIT?
 A: Depends. If you just want to add interiors, desktops, exterior and console variants, custom tardis names and etc then you're free to choose "datapack" as your option.
 Otherwise, making a mod is recommended. And yes, you can use a datapack inside a mod.
 
 #### Q: I changed my interior and now I can't turn the power on!
-A: You need to set up the [engine core](../blocks/engine-core).
+A: You need to set up the [engine](../blocks/engine).
 
 #### Q: Windows don't glow! (without Iris)
 A: Make sure you have power on. If you use Iris or any of its derivatives then make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on Forge.

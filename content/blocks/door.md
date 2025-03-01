@@ -21,11 +21,11 @@ If you shift click the door when it's closed both doors will open.
 
 Clicking the **Interior Door** with a **Linked Key (any type)** will lock the TARDIS and close the **TARDIS Door** (if it was open) clicking it again would unlock it.
 
-If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Default Keybind is "**V**") will open the **TARDIS Door**
+If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Default Keybind is "**V**") will open the **TARDIS Door** however this requires loyalty!
 
 Opening the **Interior Door** while in flight would cause most entitys (including players) inside the **TARDIS Interior** will be sucked towards the door and would be located at the previous TARDIS Location.
 
-When your in flight you can hear when you are near the **Interior Door** the sound of the vortex and when landed if theres lava infront of The TARDIS then you can hear bubbling noises from the lava and even water! You can also hear the weather outside too.
+When your in flight and are near the **Interior Door** you can hear the sound of the vortex and when landed (if theres lava or water infront of The TARDIS) you can hear bubbling noises! This also happend if there is weather outside too. Also during flight, you can see the time-vortex (this is enabled in the AIT-config `/ait-config`, you can change what it looks like in the monitor by pressing the buttons next to "hum"). For this i recommend you turn on the shields so you dont get pulled out, and if you disable p116 you will start to spin.
 
 ![Police Box Interior Door](images/interior_door/policebox_interior_door.png)
 

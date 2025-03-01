@@ -25,8 +25,8 @@ You're also able to add your own custom desktops with [**Datapacks**](../../data
 
 ## Changing the Hum
 1. Open the monitor by using the control or monitor block.
-2. Navigate to the desktop settings screen by pressing **"Desktop Settings"**.
-3. Use the arrows to change the selected hum (currently only have the **Coral** & **Toyota** hums).
+2. Navigate to the desktop settings screen by pressing the button
+3. Use the arrows to change the selected hum 
 4. Click **"Apply"** to select the active hum.
 
 ## Changing the Name
@@ -35,3 +35,11 @@ To change the TARDIS name, follow these steps:
 1. Rename a **name tag** to the desired nickname
 2. Right-click the **renamed name tag** on the **Telepathic Circuits**.
 3. Enjoy!
+
+## Changing the Vortex
+1. Open the monitor
+2. Go to the 2nd tab
+3. Switch between the hum tab
+4. When you see the vortex tab appear select the vortex you want.
+5. Enjoy!
+

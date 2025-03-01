@@ -12,16 +12,16 @@ To **grow** a TARDIS, follow these step-by-step instructions:
 2. Once a [**rift chunk**](../../mechanics/rift-chunks) is located, you will need to place down a **soul sand** block that is exposed to direct skylight (middle right).
 3. Place the **coral** on top of the soul sand block.
 4. Once you have placed the coral down, you will need to wait for anywhere between 3-12 minutes (this is also dependent entirely on tick speed).
+5. To enter the coral use the Singularity matrix subsystem on it,this allows it to progress to the last stage.
 
 ---
 
 ## Restoring the TARDIS
-The TARDIS will be ***unusable*** until it has rematerialised and selected a random interior/exterior after the **nether star** or a **charged zeiton crystal** has been used.
+The TARDIS will be ***unusable*** until it has rematerialised and selected a random interior/exterior after the **nether star** or a **charged zeiton crystal** has been used,to unlock the functions of the TARDIS you'll need the circuits/subsystems and the engine.
 
 To restore a TARDIS follow these steps:
 
 1. Once grown, the coral will present you with a door into the interior dimension it has grown from the [**Artron Energy**](../../mechanics/artron) in the rift.
 2. Walk inside the growth, and - once inside - find any water, and toss your **nether star** into it, or your fully **charged zeiton crystal**.
 3. Vacate the interior and wait for your TARDIS to rematerialise.
-4. Craft a [**Engine Core**](../../blocks/engine-core) and [set it up](../../blocks/engine-core#how-to-activate-the-core).
-5. Enjoy your working TARDIS!
+4. Setup the engine and the circuits to unlock the functions you want.

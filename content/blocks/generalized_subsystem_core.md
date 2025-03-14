@@ -6,10 +6,11 @@ params:
         - blocks/images/engine_stuff_blocks/gsc.png
 ---
 
-## How are these used?
-
-Pretty simple,use a subsystem/circuit on it,and then link the engine to it via [Fluid links](../../blocks/fluid_links.md),if the circuit has a structure you will be shown a holographic preview!
 ![Image of the GSC](images/engine_stuff_blocks/gsc.png)
 
+## How Does This Work?
+
+These are used to hold components to be attached to the engine via Artron Cables. Right click to place the component into the Generalized Subsystem Core and Shift + Right Click or mine the block the eject the component from the block.
+
 ## How make?
-***NO RECEPIE CURRENTLY INGAME,WOMP WOMP***
+![Image of the GSCRECIPE](images/engine_stuff_blocks/gsc_recipe.png)

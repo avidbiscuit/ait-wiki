@@ -10,7 +10,9 @@ params:
 
 The TARDIS enviroment projector is a fun way to change the TARDIS Interior skybox, perfect for your glass roofed interior or your flashy windows full of dazzling curtians
 
-This block can display the skybox from any dimensions (it even can work from other mods too! as long as they set it up right...)
+This block can display the skybox from any dimensions *****as seen below***** (it even can work from other mods too! as long as they set it up right...)
+
+![Enviroment Projector Recipe](images/enviroment_projector/env_space.png)
 
 ## How do I craft a Enviroment Projector?
 

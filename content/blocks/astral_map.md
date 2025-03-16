@@ -7,10 +7,17 @@ params:
 ---
 
 
-![Compat Zeiton](images/astral_map.png)
-## What is this used for?
-When placed inside a tardis, it can be used to locate structures in any dimension.
+![Astral Map](images/astral_map.png)
+## What Is It Used For?
+When placed inside of a TARDIS, it lets you select different structures located throughout the game. examples being:
+---
+>- Cult Structures
+>- Ancient Cities
+>- Villages
+---
+Clicking "SEARCH" will apply the coordinates of whatever structure is currently selected to your TARDIS, and you then can fly there.
 
-## How do i craft it?
- Using the Astral Map Blueprint!
+
+## How Do I Craft It?
+ Using the Astral Map blueprint on the fabricator.
 

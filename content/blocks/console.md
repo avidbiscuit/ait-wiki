@@ -8,12 +8,12 @@ params:
 
 ![Image of Console Generator](images/console.png)
 
-The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS should always be piloted by 6 fully-trained TARDIS pilots as to allow for a smooth journey.
+The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS is meant to be piloted by 6 fully-trained TARDIS pilots as to allow for a smooth journey.
 You might notice that it emits a nice ambiance,dont let that distract you though.
 
 Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that do different functions.
 
-## How do I create a console?
+## How Do I Create A Console?
 ![Image of Console Generator](images/console/generator.png)
 
 To create a console, craft a **Console Generator**. You are provided with one Console Generator when you configure a new desktop. Using a Console Generator is the only way to create a console. 

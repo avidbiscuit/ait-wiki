@@ -8,8 +8,8 @@ params:
 
 
 ![Painting](images/gallifrey_falls.png)
-Not much to say about this,its a bigger on the inside painting,lol.
+It's Gallifrey Falls! wowowowowowowowow!
 
-## How do i get it?
+## Crafting Recipe?
 
 ![Painting](images/falls_recipe.png)

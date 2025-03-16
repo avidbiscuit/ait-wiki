@@ -5,10 +5,10 @@ params:
     images:
         - blocks/images/zcb.png
 ---
-![Compat Zeiton](images/zcb.png)
-## What is this used for?
-Zeiton cobble's main usage is to be used in crafting recepies or used to setup certain subsystems.
+![zeiton cobble](images/zcb.png)
+## What Is It Used For?
+Since 1.2.0, Zeiton Cobble is used in a single recipe, and is usually used as a decoration block.
 
-## How do i craft it?
-![Recepie of zeiton cobble](images/zcr.png)
-or as a alternative you can right click cobble with a zeiton shard to convert it into zeiton cobble (cool right?)
+## Recipe
+![Recipe for zeiton cobble](images/zcr.png)
+> or as an alternative, you can right click Cobblestone with a Zeiton Sshard to convert it into Zeiton Cobble (cool right?).

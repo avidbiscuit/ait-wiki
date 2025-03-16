@@ -7,15 +7,14 @@ params:
 ---
 
 ![engine](images//engine_stuff_blocks/engine.png)
-## WHY IS IT SO BIG??
+## Why Is It So Big?
 
-The engine is organic based and will grow based on the amount of components you have connected to it.
+The Engine is organically based, just like the TARDIS it powers. It will grow depending on the amount and type of components you have connected to it.
 
-## How do i use it?
+## How Do I Use It?
 
-You place the engine block anywhere inside the tardis and attach components to it by using Artron Cables and the Generalized Subsystem Core block.
+You can place the Engine anywhere inside the TARDIS and attach components to it by using Artron Cables and the Generalized Subsystem Core.
 
-## How do i get it?
-
-It is made with a blueprint! (Each item needed is show when placing the blueprint in the fabricator.)
+## How Do I Get It?
+It is fabricated with a blueprint within the fabricator.
 

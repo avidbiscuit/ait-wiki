@@ -46,7 +46,7 @@ In addition,hovering over a generalized subsystem core will tell you the durabil
 
 #### TARDIS Mode
 **TARDIS** mode allows the Sonic Screwdriver to set the destination of the TARDIS wherever you right-click, as long as it's available to land, and deactivates the handbrake.
-If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned to the location of choice,however you do need the "PILOT" rank (loyalty),in addition looking up in the interior and using the sonic triggers demat and looking down activates the handbrake and refuels the TARDIS.
+If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned to the location of choice,however you do need the "PILOT" rank (loyalty),in addition looking up in the interior and using the sonic triggers demat and looking down activates the handbrake and refuels the TARDIS. When you are inside your Tardis and the sonic is linked to said Tardis (when its placed in your offhand) you can activate the sonic the tardis will takeoff.
 
 ## Sonic Settings & Configuration
 By default, you receive the "Prime" when crafting it or by getting it from the creative menu but there is a way to modify the Sonic Screwdriver casing, check it's power, see what TARDIS it's linked to and what casing it has.

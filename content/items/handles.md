@@ -3,13 +3,12 @@ title: Handles
 type: docs
 ---
 
-![inhand](images/handles/in_hand.png)
+![inconsole](images/handles/in_console.png)
 
 ## This is Handles!
 
 Similar to the show,  (using the minecraft chat) Handles can fulfill various tardis related commands. But firstly you need to find him. He can be found in the Wrecked Cybership structure which spawns in Swamp biomes. Once you"ve found him, you"ll need to link him to your Tardis by placing him into the sonic port.
 
-![inconsole](images/handles/in_console.png)
 
 ## How Handles Works.
 

@@ -17,9 +17,9 @@ params:
 
 - Once the coral plant has fully grown, it will become open. Now you need to give it its Coral Cage by right clicking the exterior with said item. After that you need to create the cage panels by right clicking the exterior with 8 Plasmic Material. 
 
-- ### The Matric Engergizer
+- ### The Matrix Engergizer
 ![Image](images/coral_setup/matrix.png)
-- Once that is done you need to give the tardis its "personality", to do this you will need to place a Matric Engergizer on top of a naturally spawned Sculk Shrieker block and activate it by making the Shrieker shriek. Doing so will slowy fill up a bar on the side of the Matric Engergizer block.
+- Once that is done you need to give the tardis its "personality", to do this you will need to place a Matrix Engergizer on top of a naturally spawned Sculk Shrieker block, Right Click the Matrix Energizer with a Nether Star and activate it by making the Shrieker shriek. Doing so will slowy fill up a bar on the side of the Matrix Engergizer block.
 
 - ### The Personality Matrix
 ![Image](images/coral_setup/personality.png)

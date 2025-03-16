@@ -7,10 +7,10 @@ params:
 ---
 
 
-![Compat Zeiton](images/czb.png)
-## What is this used for?
-Since 1.2.0 compact zeiton's usage is to be used for some structures and crafting.
+![Compact Zeiton](images/czb.png)
+## What Is This Used For?
+Since 1.2.0, Compact Zeiton is used in a single recipe, and is usually used as a decoration block.
 
 ## How do i craft it?
-![Recepie of compact zeiton](images/czr.png)
+![Recipe of compact zeiton](images/czr.png)
 

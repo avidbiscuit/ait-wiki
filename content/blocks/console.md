@@ -16,7 +16,9 @@ Out-of-universe, the console is a collection of **Control Entities** which are l
 ## How do I create get console?
 ![Image of Console Generator](images/console/generator.png)
 
-To create get console, once you have fully grown a Tardis there will be a Soul Sand block where the console should be. Place a TARDIS Plant on that Soul Sand Block and light up the area, after a while a console will grow. Alternatively, you can craft a **Console Generator**. You are provided with one Console Generator when you configure a new desktop. Using a Console Generator is the only way to create a console. 
+To create a console, once you have fully grown a Tardis there will be a Soul Sand block where the console should be. Place a TARDIS Plant on that Soul Sand Block and make sure to light up the area, after a while a console will grow. 
+
+A Console Generator is not needed when first getting the console but you can still craft it. You are provided with one Console Generator when you configure a the console. Although it can be used if you want multiple consoles. 
 
 Here is the crafting recipe for a Console Generator:
 

@@ -7,7 +7,7 @@ type: docs
 
 ## What Do These Do?
 
-They are very helpful for when you are in either oxygen-less or toxic environments. So you'll either use them when crashed, or before you set up your life support system. They also provide an infinite supply of oxygen to the player to not create stressful situations when fixing stuff. There is also 2 types of respirator; faceless and normal, they are both crafted different ways (seen below!)
+They are very helpful for when you are in either oxygen-less or toxic environments. So you'll either use them when crashed, or before you set up your life support system. They also provide an infinite supply of oxygen to the player to not create stressful situations when fixing stuff. There is also 2 types of respirator; faceless and normal,but they have the same functionality and are both crafted different ways (seen below!)
 
 (also yes the "normal" respirator is a breaking bad reference)
 

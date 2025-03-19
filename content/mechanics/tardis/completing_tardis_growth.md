@@ -39,6 +39,6 @@ params:
 
 ![Image](images/coral_setup/plasmic_recipe.png)
 
-### Matric Engergizer
+### Matrix Engergizer
 
 ![Image](images/coral_setup/matrix_recipe.png)

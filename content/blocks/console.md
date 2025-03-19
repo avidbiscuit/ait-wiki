@@ -32,6 +32,8 @@ To use the Console Generator, follow this easy guide:
 3. Confirm the console by using [**Sonic Screwdriver**](../../items/sonic) or blaze powder.
 
 
+![Default Console](images/hologram.png)
+
 ## How do I use a TARDIS Console?
 If you're having a hard time finding the controls, you can use the [**Scanning Mode**](../../items/sonic#scanning-mode) of a [**Sonic Screwdriver**](../../items/sonic). Alternatively, you're able to turn on debugging mode for viewing entity **hitboxes**, using F3+B which will toggle the debug **hitbox** mode.
 
@@ -72,8 +74,6 @@ The **Randomiser Control** does exactly what is says on the tin. This control ra
 The **Shield Control** has 2 functional modes, being visible shields and invisible shields, find more information in the [mechanics section](../../mechanics/tardis/shields).
 
 The **Telepathic circuits** have 3 functions,the first one is locating the closest sturcture, the second one is if you have a nether star and you use it on them it'll initiate self destruction, the last one is (if in siege mode) using the brick item, observer block, and quartz block it will change how the siege exterior looks.  
-
-![Default Console](images/console/console.png)
 
 {{< callout type="info" >}}
   Controls can be hit by mobs, explosions and projectiles, The console can also emit redstone.

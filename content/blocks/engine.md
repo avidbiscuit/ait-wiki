@@ -13,7 +13,7 @@ The Engine is organically based, just like the TARDIS it powers. It will grow de
 
 ## How Do I Use It?
 
-You can place the Engine anywhere inside the TARDIS and attach components to it by using Artron Cables and the Generalized Subsystem Core.
+You can place the Engine anywhere inside the TARDIS and attach components to it by using Artron Cables and the Generalized Subsystem Core. The engine also has durability if you need help with repairing it, check out the `durabilty` page!
 
 ## How Do I Get It?
 It is fabricated with a blueprint within the fabricator.

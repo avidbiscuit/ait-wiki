@@ -12,7 +12,7 @@ Similar to the show,  (using the minecraft chat) Handles can fulfill various tar
 
 ## How Handles Works.
 
-Once placed into the sonic port, he will be able to accept commands given by you. To do so in the in game chat type "Handles" followed by a command you want him to fulfill, Responding with a specific message based on what you ask him to do or an error message if you give him a wrong command. He will also do flight events for you when he's in the Sonic Port.
+Once placed into the sonic port, he will be able to accept commands given by you. To do so in the in game chat type "Handles" followed by a command you want him to fulfill, Responding with a specific message based on what you ask him to do or an error message if you give him a wrong command. He will NOT do flight events for you when he's in the Sonic Port!
 
 ## Misc stuff
         "help"

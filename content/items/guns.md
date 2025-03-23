@@ -10,7 +10,7 @@ type: docs
 These are the Cult Staser and Cult Staser Rifle, one used for short range and the other for long range attacks. They can be found in chests found in the Cult structures and require Artron Units to work. You can use the Staser Bolt Magazine to refill them (you can tell if it has Artron Units by looking at the item tooltip or listening for a clicking sound when trying to fire)
 
 - You fire with `left click`
-- With the Cult Staser Rifle you can also zoom in like the Spyglass by pressing `right click`
+- With the Cult Staser Rifle you can also zoom in like the Spyglass by holding `right click`
 
 ## How do i give them ammo?
 

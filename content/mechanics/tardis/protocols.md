@@ -54,3 +54,10 @@ This can be use for emergency escapes. Why? It dumps all your artron and immidet
 
 # Protocol 54
 It produces an electric shock around the exterior, if someone is near to the "electrocution zone", it gives them a the following effects as a result;
+* darkness
+* slowness
+* poision
+* weakness
+* hunger
+* mining faigue
+* regeneration

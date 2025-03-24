@@ -2,17 +2,20 @@
 title: Components
 type: docs
 ---
-## This page contains information about
+
+ ![stuff](images/resourcesall.png)
+
+## This page contains information about the following;
 * Artron Fluid Link
 * Data Fluid Link
 * Vortex Fluid Link
 * Artron Mercurial Link
 * Data Mercurial Link
 * Vortex Mercurial Link
-* Condenser
-* Manipulator
-* Bulb
-* Inductor
+* Transwarp Resonator
+* Orthogonal Engine Filter
+* Photon Accelerator
+* Hyperion Core Shaft
 * Dematerialization Circuit
 * Sheilds Circuit
 * Backup Circuit
@@ -22,49 +25,51 @@ type: docs
 * Stabilisers
 * Life Support
   
- ![stuff](images/resourcesall.png)
-## What are these things?
+## What are all of these things?
 
-These are the new resources that are used to craft things via the fabricator n blueprints.
-* All the fluid/mercurial links are made via the fabricator as they have blueprints
-* The rest have their own crafting recopies.
+These are the new resources that are used to craft things via the fabricator blueprints. All the fluid/mercurial links are made via the fabricator 
+as they have blueprints, the rest have their own crafting recipes.
 
-## Here are the recepies of the non blueprint items
-
-![inductor recepie](images/ind.png)
-![manip recepie](images/manip.png)
-![condenser recepie](images/cond.png)
-![bulb recepie](images/bulb.png)
 
 
 # Subsystems/circuits
-
 These new subsystems/circuits are needed to activate and or use certain functions of the TARDIS,they'll need power.
 
 ## How do i use them?
+They are used to access certain functions of the Tardis. How? By inserting them (with `right click`) into the Generalized Subsystem Core.
 
-You use them by right clicking a generalized subsystem core to set its type,then build a structure if it has one and then link it up to the engine via fluid links
-
-* WARNING SOME CIRCUITS HAVE DURABILITY,DURABILITY IS EXPLAINED IN MECHANICS.
+* WARNING circuits have durability. [**Click me to see how durability works!**](../mechanics/durability/)
 
 ## How do i make them?
 
 Blueprints and the fabricator!
 
-## What circuits are there and what do they do?
+## What each circuit does?
 
-* Demat circuit,needed to demateralize and remateralize.
+* Demat circuit; needed to demateralize and remateralize.
 
-* Backup circuit,transfers artron to the TARDIS once it runs out of power.
+* Backup circuit; transfers artron to the TARDIS once it runs out of power.
 
-* Chameleon circuit,needed to switch exteriors,cloak and use the adaptive exterior.
+* Chameleon circuit; needed to switch exteriors,cloak and use the adaptive exterior.
 
-* Desperation circuit,allows the usage of siege mode/protocols.
+* Desperation circuit; allows the usage of siege mode/protocols.
 
-* Gravitational circuit,unlocks anti-mavs and RWF
+* Gravitational circuit; unlocks anti-mavs and RWF
 
-* Life support,gives constant regeneration within the TARDIS.
+* Life support; gives constant regeneration within the TARDIS.
 
-* Stabalisers,unlocks P116 (auto-pilot)
+* Stabilizers; unlocks P116 (auto-pilot)
 
-* Shield circuit,unlocks both shield types
+* Shield circuit; unlocks both shield types
+
+## Recepies for non blueprint items!
+
+![inductor recepie](images/ind.png)
+
+![manip recepie](images/manip.png)
+
+![condenser recepie](images/cond.png)
+
+![bulb recepie](images/bulb.png)
+
+

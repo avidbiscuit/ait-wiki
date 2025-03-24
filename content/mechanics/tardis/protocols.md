@@ -2,8 +2,6 @@
 title: Protocols
 type: docs
 ---
-
-# Protocols
 Protocols are controls on the tardis console that function to make your playthrough easier, 
 here are them played out for you to better understand what function they serve when activated.
 
@@ -50,3 +48,9 @@ On the console, find "Protocol 19" and use a key linked to that TARDIS and click
 # Protocol 000 (AKA ***Self-Destruct***)
 This is a special kind of protocol that cannot be triggerd via its own button,instead give the TARDIS a nether star via the telepathic circuits,this makes the message "SELF DESTRUCT INITIATED ABORT SHIP" appear to anyone in the interior,once evryone has vacated the interior the TARDIS locks itself as the TARDIS star within goes critial and blows up,resulting in a medium sized explosion where the TARDIS was.
 {{< callout type="warning" >}} Once self destruct is enabled it cannot be stopped,so you better only let trustworthy people get inside your TARDIS,incase it is activated grab whatever you can from your interior. {{< /callout >}}
+
+# Protocol 515
+This can be use for emergency escapes. Why? It dumps all your artron and immidetly travels to your destination, but (as a side effect) it does 1000 damage to each Circuit (aside the Gravitational circuit).
+
+# Protocol 54
+It produces an electric shock around the exterior, if someone is near to the "electrocution zone", it gives them a the following effects as a result;

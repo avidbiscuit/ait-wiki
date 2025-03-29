@@ -25,3 +25,7 @@ Depends,circuits/subsystems wont break if you run out of it but they'll malfunct
 
 * For the engine durability slowly goes passivly down
 * For the othere circuits/subsystems that have durability they'll go down if the action they have is used (example if you fly with the demat circuit the demat circuits durability goes down)
+
+## How do i increase / fix low durability systems?
+
+ You can `right click ` on the block with low durability using; iron,copper,gold to increase the durability / repair it.

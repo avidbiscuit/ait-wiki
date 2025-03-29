@@ -38,7 +38,7 @@ These new subsystems/circuits are needed to activate and or use certain function
 ## How do i use them?
 They are used to access certain functions of the Tardis. How? By inserting them (with `right click`) into the Generalized Subsystem Core.
 
-* WARNING circuits have durability. [**Click me to see how durability works!**](../mechanics/durability/)
+* WARNING circuits have durability. [**Click me to see how durability works!**](../../mechanics/durability/)
 
 ## How do i make them?
 

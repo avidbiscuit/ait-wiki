@@ -17,7 +17,7 @@ The TARDIS monitor is included with the [**TARDIS Console**](../console) but you
 ![crafting-grid](images/monitor/recipe.png)
 
 ## Customizing Your TARDIS
-In the monitor you can customise your TARDIS like the Exterior, Interior and the Hum. For how to change it is said in [**Customizing your TARDIS**](../../mechanics/customizing) page.
+In the monitor you can customise your TARDIS like the Exterior, Interior and the Hum. For how to change it is said in [**Customizing your TARDIS**](../../mechanics/tardis/customizing) page.
 
 ## TARDIS Information
 When looking at the right side of the monitor it will display a few things, on the top will display where your **TARDIS** is with the coordinates, dimension and where it's facing too. Next in the middle will display how long your flight is with a progress bar. Then on the bottom will display where is your target destination will be like the **coordinates display** and also on the bottom left is the [**Artron Energy**](../../mechanics/artron) bar that shows how much energy you have in your **TARDIS**.

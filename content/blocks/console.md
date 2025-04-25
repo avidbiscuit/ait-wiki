@@ -24,7 +24,7 @@ Here is the crafting recipe for a Console Generator:
 
 ![Capaldi Sonic Screwdriver](images/console/generator-recipe.png)
 
-Place the Console Generator in the TARDIS interior to select any of the unlocked consoles that exist.
+Place the Console Generator in the TARDIS interior to select any of the unlocked consoles that exist. (alternatively, you can use the "Cache Console" button in the tardis monitor)
 
 To use the Console Generator, follow this easy guide:
 1. Right-click on the Console Generator to change the **type** of console.

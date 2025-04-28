@@ -6,6 +6,9 @@ type: docs
 ## How Does it Work?
 During unstabilized flight, controls will break down over time. You have to either, use a mallet (the hammer) on them to bypass any breakage, or use a sonic screwdriver in TARDIS mode to repair the control.
 
+## How Will I Know What State It's In?
+Pretty much if it's not smoking, it's fine. If it's smoking of ANY KIND, on fire, sparking, etc., it needs repair.
+
 ## Different States of Durability
 1. FULL - Max durability, normal controls
 2. OCCASIONALLY_JAM - Occasionally jams

@@ -11,4 +11,4 @@ Since 1.2.0, Zeiton Cobble is used in a single recipe, and is usually used as a 
 
 ## Recipe
 ![Recipe for zeiton cobble](images/zcr.png)
-> or as an alternative, you can right click Cobblestone with a Zeiton Sshard to convert it into Zeiton Cobble (cool right?).
+> or as an alternative, you can right click Cobblestone with a Zeiton Shard to convert it into Zeiton Cobble (cool right?).

@@ -28,4 +28,4 @@ Depends,circuits/subsystems wont break if you run out of it but they'll malfunct
 
 ## How do i increase / fix low durability systems?
 
- You can `right click ` on the block with low durability using; iron, copper, gold, and zeiton shards to increase the durability / repair it.
+ You can `right click ` on the block with low durability using; iron, copper, and gold to increase the durability / repair it.

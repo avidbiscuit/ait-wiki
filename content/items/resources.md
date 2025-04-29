@@ -54,7 +54,7 @@ Blueprints and the fabricator!
 
 * Desperation circuit; allows the usage of siege mode/protocols.
 
-* Gravitational circuit; unlocks anti-mavs and RWF
+* Gravitational circuit; unlocks anti-mavs.
 
 * Life support; gives constant regeneration within the TARDIS.
 

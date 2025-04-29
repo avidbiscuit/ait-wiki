@@ -35,6 +35,6 @@ You can learn on about the Mod through out these groups:
 
 But if you are new to the mod you'll probably want to know how to start. Here are some pages you might want to look at:
 {{< cards >}}
-  {{< card link="mechanics/obtaining-tardis" title="Obtaining your TARDIS" image="mechanics/tardis/images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
+  {{< card link="mechanics/tardis/completing_tardis_growth" title="Completing your TARDIS" image="mechanics/tardis/images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
   {{< card link="items/sonic" title="Sonic Screwdriver" image="items/images/sonic/in_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks,  and is the most important tool for a TARDIS user." >}}
 {{< /cards >}}

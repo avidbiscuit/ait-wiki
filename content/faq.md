@@ -77,3 +77,7 @@ A: Talk with people who have the mod council role.
 
 #### Q: AIT is boring where can I find out/install AIT Addons
 A: There's a Discord Server: https://discord.gg/aYEtPD24bF and if you want your addon to be in the discord DM **teeho (Dr. Theo)**.
+
+#### Q: Can you support Immersive Portals / add your own BOTI
+A: no we will not officially support immersive portals, we did once before but it was buggy, broke a lot, crashed a lot and had plenty of other issues. 
+Yes we are adding our own BOTI (slowly), we kinda have it right now in the form of seeing the vortex from inside when you are in flight. Yes it will be similar to immersive portals in the sense of seamless teleport. When will it be out?... When its done!

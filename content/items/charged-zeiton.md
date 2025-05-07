@@ -5,7 +5,8 @@ type: docs
 
 ## What is this?
 
-### Deperedicate
+To use it, simply hold the item in your hand while and `right-click` the Artron Collecter Block and it will slowly drain the block.
+To fill up your tardis with it, `crouch right-click` the console.
 
 ## Why cant i just use normal zeiton?
 

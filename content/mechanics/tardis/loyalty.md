@@ -15,11 +15,11 @@ Therese 5 ranks,which are.
 5. Reject
 
 * Each rank needs a certain amount of loyalty points.
-* Owner requires 100
-* Pilot requires 75
-* Companion requires 50
-* Neutral requires 25
-* Reject requires 0
+* Owner requires: 500
+* Pilot requires: 450
+* Companion requires: 245
+* Neutral requires: 125
+* Reject requires: 0
 
 ## What increases my loyalty points?
 

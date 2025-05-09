@@ -110,3 +110,26 @@ And once you make sure the textures are inside of the directory above, then you'
   "name": "Custom Category Name"
 }
 ```
+
+## Translating Your Exterior
+
+You are probably wondering why (in the monitor) your tardis is called something like `exterior.(namespace).(exterior_name)`. Well that is because it is NOT translated, here is how to.
+(FYI you can replace `en_us.json` with the name of any language you use, [see that list here](https://minecraft.wiki/w/Language))
+
+1. make a new file in `assets/(namespace)/lang` called `en_us.json`
+
+2. write the following into the file you just made 
+
+``` json
+{
+"exterior.namespace.my_exterior":"Exterior Name"
+}
+```
+If you want to add more exteriors just add a `,` after the last line
+(example)
+``` json
+{
+"exterior.namespace.my_exterior":"Exterior Name",
+"exterior.namespace.my_exterior_two":"Exterior Name Two"
+}
+```

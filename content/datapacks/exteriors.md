@@ -85,6 +85,7 @@ And once you make sure the textures are inside of the directory above, then you'
 > - Police Box (I am only listing the ones that have different models):
 > > `default`
 > > `coral`
+> > `renaissance`
 > - Classic Police Box:
 > > `default`
 > - K2 Phone Booth:

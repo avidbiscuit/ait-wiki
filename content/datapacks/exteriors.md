@@ -87,7 +87,8 @@ And once you make sure the textures are inside of the directory above, then you'
 > > `coral`
 > > `renaissance`
 > - Classic Police Box:
-> > `default`
+> > `prime`
+> > `hudolin`
 > - K2 Phone Booth:
 > > `default`
 > - TT Capsule:

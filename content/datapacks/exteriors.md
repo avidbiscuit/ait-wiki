@@ -28,8 +28,8 @@ type: docs
 >   "id": "(namespace):(exterior_texture_name)",
 >   "category": "ait:exterior/(refer to example below)",
 >   "parent": "ait:exterior/(refer to example below)",
->   "texture": "(namespace):textures/(exterior_texture_name).png",
->   "emission": "(namespace):textures/(exterior_texture_name)_emission.png"
+>   "texture": "(namespace):textures/blockentites/exteriors/(exterior_texture_name).png",
+>   "emission": "(namespace):textures/blockentites/exteriors/(exterior_texture_name)_emission.png"
 > }
 > ```
 >> Note: If you have a custom category, instead of something like `"category": "ait:exterior/police_box"` it would be `"category": "(namespace):(custom_category)"`.
@@ -43,11 +43,11 @@ type: docs
 
 - Place your **.png** exterior texture in this path
 
-`assets/(namespace)/exterior/(exterior_texture_name).png`
+`assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name).png`
 
 - Place your .**png** exterior texture emission in the same path
 
-`assets/(namespace)/exterior/(exterior_texture_name)_emission.png`
+`assets/(namespace)/textures/blockentites/exteriors/(exterior_texture_name)_emission.png`
 
 - If you want people to be able to see your exterior texture variant, they will need this **resource pack**.
 

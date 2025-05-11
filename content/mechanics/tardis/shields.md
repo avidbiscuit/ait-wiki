@@ -13,6 +13,6 @@ The shields them self have 2 modes
 *  Activate them by right clicking once.
 2. Visible ![Visible shields active](images/shields/shield.png)
  + The Visible ones block players under the companion loyalty level from entering your TARDIS,they also incinerate any sort of projectile and will push back any type of entity.
- + Activate them by shift right clicking the shield control when the invisible shields are active.
+ + Activate them by shift left clicking or just right clicking the shield control when the invisible shields are active.
 
 Once you activate the shields they start off by default as invisible.

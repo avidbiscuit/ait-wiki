@@ -1,5 +1,5 @@
 ---
-title: TARDIS Star
+title: Eye of Harmony
 type: docs
 params:
     images:
@@ -8,10 +8,7 @@ params:
 
 ![Engine Core](images/tardis_star.png)
 
-## HOLY CRAP IS THAT THE EYE OF HARMONY?!?!?
-Nah mate, it's the TARDIS star get it right this is AIT duh.
-
 ## What does it do?
-When the engine has been placed down the TARDIS Star will spawn far under the **TARDIS interior** and will spin infinitly. When **The TARDIS** is refueling the TARDIS Star's Rays begin pulsing. plus it's also really gigantic :3
+Floats far below the TARDIS interior and spins at a slow pace. When **The TARDIS** is refueling the Eye of Harmony's Rays begin pulsing. plus it's also really gigantic :3
 
 

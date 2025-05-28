@@ -25,11 +25,11 @@ Inside this new .json file, paste:
 > }
 > ```
 
-Replacing the **namespace** and the **vortex_name** with your own from earlier
+- Replacing the **namespace** and the **vortex_name** with your own from earlier.
 
-Now put this **Datapack** into Minecraft.
+- Now put this **Datapack** into Minecraft.
 
-## Create A Resource Pack6
+## Create A Resource Pack
 {{< callout type="info" >}}
 [Follow this guide](https://minecraft.wiki/w/Tutorials/Creating_a_resource_pack)
 {{< /callout >}}

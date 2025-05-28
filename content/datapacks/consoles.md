@@ -8,7 +8,7 @@ type: docs
 {{< /callout >}}
 
 ## Console Texture
-- Make an console texture for any of the consoles that exist in the mod. You may use any of the variants as a base, but remember whatever you borrow as a base cannot be claimed as your own, used in any other media (without permission from Loqor), or distributed.
+- Make a console texture for any of the consoles that exist in the mod. You may use any of the variants as a base, but remember whatever you borrow as a base cannot be claimed as your own, used in any other media (without permission from Loqor), or distributed.
 - Save this console texture to your datapack that is called by your own custom datapack namespace (see below), naming it whatever you like. but do remember to call it something you can remember, with **.png** as the image's format.
 
 ---
@@ -31,7 +31,7 @@ type: docs
 > }
 > ```
 
-- replacing the **namespace** and the **console_texture_name** with your own from earlier
+- Replacing the **namespace** and the **console_texture_name** with your own from earlier.
 
 - Now put this **datapack** into Minecraft.
 
@@ -61,7 +61,7 @@ Once you're finished, the json file should look like this:
 }
 ```
 And your resourcepack directory should look like this:
-```(namespace)/assets/textures/```
+```assets/(namespace)/textures/```
 
 And once you make sure the textures are inside of the directory above, then you're ready to use your new console texture variant!
 

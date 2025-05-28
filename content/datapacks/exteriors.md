@@ -66,7 +66,7 @@ Once you're finished, the json file should look like this:
 }
 ```
 And your resourcepack directory should look like this:
-```(namespace)/assets/textures/```
+```assets/(namespace)/textures/```
 
 And once you make sure the textures are inside of the directory above, then you're ready to use your new exterior texture variant!
 

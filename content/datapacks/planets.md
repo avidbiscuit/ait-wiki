@@ -7,10 +7,6 @@ type: docs
   You need to learn how texture pack and datapacks works!
 {{< /callout >}}
 
-## Console Texture
-- Make an console texture for any of the consoles that exist in the mod. You may use any of the variants as a base, but remember whatever you borrow as a base cannot be claimed as your own, used in any other media (without permission from Loqor), or distributed.
-- Save this console texture to your datapack that is called by your own custom datapack namespace (see below), naming it whatever you like. but do remember to call it something you can remember, with **.png** as the image's format.
-
 ---
 
 ## Create a Datapack
@@ -18,35 +14,56 @@ type: docs
 
 - Create a new **.json** file in the path
 
-> `data/(namespace)/console/(console_texture_name).json`
+> `data/(namespace)/planet/(planet_name).json`
 
 - Inside this new .json file, paste
 
 > ```json
-> {
->   "id": "(namespace):(console_texture_name)",
->   "parent": "ait:console/(refer to example below)",
->   "texture": "(namespace):textures/(console_texture_name).png",
->   "emission": "(namespace):textures/(console_texture_name)_emission.png"
-> }
+>{
+>  "dimension": "(dimension:name)",
+>  "gravity": 0,
+>  "has_oxygen": true,
+>  "has_landable_surface": true,
+>  "temperature": 288,
+>  "render": {
+>    "texture": "(texture:path.png)",
+>    "position": [9000, 76, -8000],
+>    "scale": [1200, 1200, 1200],
+>    "rotation": [-22.5, 45, 0],
+>    "clouds": true,
+>    "atmosphere": true,
+>    "color": [0.18, 0.35, 0.60],
+>    "radius": 1400,
+>    "suction_radius": 900,
+>    "has_rings": false
+>  },
+>  "transition": {
+>    "target": "ait:space",
+>    "height": 600
+>  }
+>}
 > ```
 
-- replacing the **namespace** and the **console_texture_name** with your own from earlier
+- replacing the **(dimension:name)** with the name of the dimension that you want to be taken too when entering the planets "surface".
+
+- Make sure to set the **(texuture:path.png)** to the file location of the plant texture (see below for how to do so).
+
+- Remeber that space in AIT is BIG so make sure your planet is far enought away from others nearby.
 
 - Now put this **datapack** into Minecraft.
 
 ## Create A Resource Pack
 [Follow this guide](https://minecraft.wiki/w/Tutorials/Creating_a_resource_pack)
 
-- Place your **.png** console texture in this path
+- Place your **.png** planet texture in this path
 
-`assets/(namespace)/console/(console_texture_name).png`
+`assets/(namespace)/textures/environment/(plant_name).png`
 
-- Place your .**png** console texture emission in the same path
+- Place your .**png** ring texture emission in the same path
 
-`assets/(namespace)/console/(console_texture_name)_emission.png`
+`assets/(namespace)/textures/environment/(plant_name)_ring.png`
 
-- If you want people to be able to see your console texture variant, they will need this **resource pack**.
+- If you want people to be able to see your planet texture variant, they will need this **resource pack**.
 
 ## Example Reference That's Easy to Follow :)
 > This is just an example, do not use the ID "(namespace)" and make sure you're not using any parentheses. Those are just there for making sure you replace (namespace) with your own ID and (console_texture_name) with your texture's name.
@@ -54,22 +71,31 @@ type: docs
 Once you're finished, the json file should look like this:
 ```json
 {
-  "id": "(namespace):my_console",
-  "parent": "ait:console/coral",
-  "texture": "(namespace):textures/(console_texture_name).png",
-  "emission": "(namespace):textures/(console_texture_name)_emission.png"
+  "dimension": "dimension:name",
+  "gravity": 0,
+  "has_oxygen": true,
+  "has_landable_surface": true,
+  "temperature": 288,
+  "render": {
+    "texture": "ait:textures/environment/plant_name.png",
+    "position": [9000, 76, -8000],
+    "scale": [1200, 1200, 1200],
+    "rotation": [-22.5, 45, 0],
+    "clouds": true,
+    "atmosphere": true,
+    "color": [0.18, 0.35, 0.60],
+    "radius": 1400,
+    "suction_radius": 900,
+    "has_rings": false
+  },
+  "transition": {
+    "target": "ait:space",
+    "height": 600
+  }
 }
 ```
+
 And your resourcepack directory should look like this:
-```(namespace)/assets/textures/```
+```assets/(namespace)/textures/environment/(png files)```
 
-And once you make sure the textures are inside of the directory above, then you're ready to use your new console texture variant!
-
-## Specifics About the Different Console Types
-> - Hartnell Console = `hartnell`
-> - Coral Console = `coral`
-> - Copper Console = `copper`
-> - Toyota Console = `toyota`
-> - Alnico Console = `alnico`
-> - Steam Console = `steam`
-> > FYI: the `copper` console is currently unavailable.
+And once you make sure the textures are inside of the directory above, then you're ready to see your new planet in the AIT space dimension!

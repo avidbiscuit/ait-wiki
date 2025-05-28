@@ -42,6 +42,11 @@ Place your **.png** vortex texture in this path
 
 `assets/(namespace)/vortex/(vortex_name).png`
 
-If you want people to be able to see your vortex variant, they will need this **resource pack**.
+If you want people to be able to see your vortex variant, they will need this **resource pack**. You can also create layers to the vortex by making 2 other textures called:
+
+`(vortex_name)_second.png`
+and
+
+`(vortex_name)_third.png`
 
 ## [Click for Example Json](https://github.com/amblelabs/ait/blob/main/src/main/resources/data/ait/fx/vortex/copper.json)

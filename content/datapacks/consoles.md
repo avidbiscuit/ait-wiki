@@ -26,8 +26,8 @@ type: docs
 > {
 >   "id": "(namespace):(console_texture_name)",
 >   "parent": "ait:console/(refer to example below)",
->   "texture": "(namespace):textures/(console_texture_name).png",
->   "emission": "(namespace):textures/(console_texture_name)_emission.png"
+>   "texture": "(namespace):textures/blockentites/consoles/(console_texture_name).png",
+>   "emission": "(namespace):textures/blockentites/consoles/(console_texture_name)_emission.png"
 > }
 > ```
 
@@ -40,11 +40,11 @@ type: docs
 
 - Place your **.png** console texture in this path
 
-`assets/(namespace)/console/(console_texture_name).png`
+`assets/(namespace)/blockentites/consoles/(console_texture_name).png`
 
 - Place your .**png** console texture emission in the same path
 
-`assets/(namespace)/console/(console_texture_name)_emission.png`
+`assets/(namespace)/blockentites/consoles/(console_texture_name)_emission.png`
 
 - If you want people to be able to see your console texture variant, they will need this **resource pack**.
 
@@ -56,8 +56,8 @@ Once you're finished, the json file should look like this:
 {
   "id": "(namespace):my_console",
   "parent": "ait:console/coral",
-  "texture": "(namespace):textures/(console_texture_name).png",
-  "emission": "(namespace):textures/(console_texture_name)_emission.png"
+  "texture": "(namespace):textures/blockentites/consoles/(console_texture_name).png",
+  "emission": "(namespace):textures/blockentites/consoles/(console_texture_name)_emission.png"
 }
 ```
 And your resourcepack directory should look like this:
@@ -72,4 +72,5 @@ And once you make sure the textures are inside of the directory above, then you'
 > - Toyota Console = `toyota`
 > - Alnico Console = `alnico`
 > - Steam Console = `steam`
-> > FYI: the `copper` console is currently unavailable.
+> - Crystaline Console = `crystaline`
+> - Tokamak Console = `renaissance`

@@ -28,4 +28,19 @@ After this your datapack should now work if it still doesn't work try to reload 
 
 ## Not Reloading Datapack
 
-When you make changes to your datapack
+When you make changes to your datapack make sure to type `/reload` into the chat so that it can apply to the changes you make ingame
+
+## Reloading Resourcepacks
+
+Same as above, when making changes to a resourcepack you need to apply that to the game. To do so press `f3+T` keys at the same time on your keyboard and it will reload the resourcepack.
+
+## Missing textures
+
+If the texture for something you added is just a pink and black pattern, like this.
+
+![boo](images/bugfixing/yourworstnightmare.png)
+
+Make sure to check the games log (usualy located at `.minecraft/logs` or `(minecraft root folder)/logs`, if not google the game launcher or device you use as the minecraft game folder location will vary). Then look for where the giant wall of text talks about your pack. It should say something like ``` couldn't find texture: (namespace)/texture/...```. If what that text says is not where your texture is in the Resourcepack you made, you most likly miss-typed the `.png` location inside your datapack so go back and double check it!
+
+
+### If you need any extra support, feel free to ask in the AIT discord server!

@@ -16,19 +16,18 @@ type: docs
 
 - Create a new **.json** file in the path
 
-> `data/(namespace)/blahblah/(dimension_name_i_think).json`
+> `data/(namespace)/locked_dimension/(dimension_name).json`
 
 - Inside this new .json file, paste
 
 > ```json
-> {
-> I HAVE NO IDEA, I BLAME THE OTHER DEVS FOR NOT DOCUMENTING WHAT THEY MAKE!
-> }
+>{
+>  "dimension": "(dimension:id)",
+>  "stack": "(google item stack codec)"
+>}
 > ```
 
-- Replace the **this** with THAT.
-
-- Something about changing the item that you use.
+- Replace the **(dimension:id)** with the name and mod id for the dimension you want locking.
 
 - Now put this **datapack** into Minecraft.
 

@@ -12,6 +12,8 @@ type: docs
 ## Create a Datapack
 - Follow the tutorial on the [Minecraft Wiki on datapacks](https://minecraft.wiki/w/Data_pack) on how to set one up, use the namespace from earlier
 
+- You do NOT need to make a cup / mug texture as one will be generated for you when using the datapack ingame.
+
 - Create a new **.json** file in the path
 
 > `data/(namespace)/drink/effect/(drink_name).json`
@@ -38,6 +40,6 @@ type: docs
 
 - When replacing the **(name:of_drink)**, make sure that it is the same as the name of the `.json` file.
 
-- For the custom color, make sure to use the; ISERT SILLY COLOR SYSTEM LOQOR USED HERE
+- For the custom color (of the liquid on the cup texture), make sure to use the; ISERT SILLY COLOR SYSTEM LOQOR USED HERE
 
 - Now put this **datapack** into Minecraft.

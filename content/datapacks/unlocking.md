@@ -23,11 +23,13 @@ type: docs
 > ```json
 >{
 >  "dimension": "(dimension:id)",
->  "stack": "(google item stack codec)"
+>  "stack": "(item stack codec)"
 >}
 > ```
 
 - Replace the **(dimension:id)** with the name and mod id for the dimension you want locking.
+
+- If you are not sure what `item stack codec` is, you can goggle it OR ask in the AIT discord server!
 
 - Now put this **datapack** into Minecraft.
 

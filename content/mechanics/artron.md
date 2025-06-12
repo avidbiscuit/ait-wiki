@@ -20,7 +20,7 @@ larger amounts quicker in a [**rift chunk**](../rift-chunks).
 
 It can also be collected in **Artron Collectors**, which come in block and item form.
 
-## Artron Collector Panel
+## Artron Collector Unit
 It is crafted with this recipe:
 
 ![Artron Collector Panel Recipe](images/artron/panel-recipe.png)

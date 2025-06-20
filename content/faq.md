@@ -4,7 +4,7 @@ type: docs
 ---
 
 #### Q: Is there a channel with all of the community addons?
-A: No, but most devs have there own servers;
+A: No, but most devs have their own servers;
 
 - [AIT Extras](https://discord.gg/5JDKuzarcS)
 
@@ -34,7 +34,7 @@ A: Bellow is the ones we currently know about, if you know of any not listed her
 
 | Immersive Portals : Stops people from being able to enter / exit the tardis. |
 
-| No Nametag Render : Will stop the control names from showing (no ones fault, its the mod doing its job). |
+| No Nametag Render : Will stop the control names from showing (no ones fault, it's the mod doing its job). |
 
 | Concurrent Chunk Management Engine : Seems to break rift chunks and tardis growth. |
 
@@ -64,7 +64,7 @@ A: Beta testers? I don't know what you're talking about.
 A: [Here](https://modrinth.com/mod/ait).
 
 #### Q: Can I get my [something] added?
-A: No, end of discussion. If we feel like it fits, we will contact you directly.
+A: No, end of discussion. If you wish to make a suggestion please do so in the Discord server. 
 
 #### How do I get beta builds?
 A: Donators, beta testers, team members and some addon developers get access to beta builds. To become a donator you can support Loqor [here](https://ko-fi.com/loqor).
@@ -83,5 +83,5 @@ A: Talk with people who have the mod council role.
 A: There are quite a few on modrinth and curseforge, most of them can be found [HERE](https://modrinth.com/collection/eP9vTYE5)
 
 #### Q: Can you support Immersive Portals / add your own BOTI
-A: no we will not officially support immersive portals, we did once before but it was buggy, broke a lot, crashed a lot and had plenty of other issues. 
-Yes we are adding our own BOTI (slowly), we kinda have it right now in the form of seeing the vortex from inside when you are in flight. Yes it will be similar to immersive portals in the sense of seamless teleport. When will it be out?... When its done!
+A: No we will not officially support immersive portals, we did once before but it was more trouble than anything else. 
+Yes we are adding our own BOTI (slowly), we kinda have it right now in the form of seeing the vortex from inside when you are in flight. Yes it will be similar to immersive portals in the sense of seamless teleport. When will it be out?... When its done!!!

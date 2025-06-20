@@ -4,7 +4,11 @@ type: docs
 ---
 
 #### Q: Is there a channel with all of the community addons?
-A: There's a semi-official discord server, [AIT Addons](https://discord.gg/jz3mPsDEdT)
+A: No, but most devs have there own servers;
+
+- [AIT Extras](https://discord.gg/5JDKuzarcS)
+
+- [AWT](https://discord.gg/pR4H948328)
 
 #### Q: How do I make a mod addon?
 A: If you want to make a mod addon, refer to [this article](../development/).
@@ -76,7 +80,7 @@ A:
 A: Talk with people who have the mod council role.
 
 #### Q: AIT is boring where can I find out/install AIT Addons
-A: There's a Discord Server: https://discord.gg/aYEtPD24bF and if you want your addon to be in the discord DM **teeho (Dr. Theo)**.
+A: There are quite a few on modrinth and curseforge, most of them can be found [HERE](https://modrinth.com/collection/eP9vTYE5)
 
 #### Q: Can you support Immersive Portals / add your own BOTI
 A: no we will not officially support immersive portals, we did once before but it was buggy, broke a lot, crashed a lot and had plenty of other issues. 

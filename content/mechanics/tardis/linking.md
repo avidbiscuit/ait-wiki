@@ -11,7 +11,8 @@ type: docs
 On the console, find the **telepathic circuit** and right click it with the linkable item.
 Linkable items include:
 <br>
-<br>TARDIS Key
+<br>TARDIS Key(../../items/sonic)
+
 <br>Stattenhiem Remote
 
 

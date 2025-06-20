@@ -25,7 +25,10 @@ As mentioned earlier, the TARDIS shrinks the exterior to a smaller and more prot
 is now able to be picked up by any third-party who comes across it, it is highly suggested to activate your TARDIS **handbrake** 
 while Siege Mode is activated to prevent unwanted players picking up your TARDIS.
 
-***PLEASE NOTE THAT SEIGE MODE REQUIRES THE PLAYER TO HAVE INSTALLED THE DESPERATION CIRCUIT IN THE TARDIS ENGINE***
+**PLEASE NOTE THAT SEIGE MODE REQUIRES THE PLAYER TO HAVE INSTALLED THE DESPERATION CIRCUIT IN THE TARDIS ENGINE**
+<br>As mentioned earlier, the TARDIS shrinks the exterior to a smaller and more protected version, this includes shrinking it weight. The TARDIS
+is now able to be picked up by any third-party who comes across it, this is why it is highly suggested to activate your TARDIS **handbrake** 
+while Siege Mode is activated to prevent such an event occurring.
 
 # Protocol 3 (AKA **Cloak Mode**)
 Cloak Mode is a function on your TARDIS console designed to keep the TARDIS hidden when the chameleon circuit is faulty. Cloak Mode 

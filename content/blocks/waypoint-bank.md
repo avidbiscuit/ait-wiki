@@ -16,7 +16,7 @@ The Waypoint Bank is a easy way to fix your storage issues with waypoint cartrig
 
 ## How Do I Use the Waypoint Bank?
 
-The Waypoint Bank has 16 slots which you can insert a [Waypoint Cartrage](../../items/cartridge) into by interacting with one of the slots(Normally by right clicking it). If you **sneak** and **Interact** it.
+The Waypoint Bank has 16 slots which you can insert a [Waypoint Cartrage](../../items/cartridge) into by interacting with one of the slots (Normally by right clicking it). If you **sneak** and **Interact** it.
 
 
 * Get your waypoint cartridge and then simply `right click`

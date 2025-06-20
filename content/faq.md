@@ -83,5 +83,5 @@ A: Talk with people who have the mod council role.
 A: There are quite a few on modrinth and curseforge, most of them can be found [HERE](https://modrinth.com/collection/eP9vTYE5)
 
 #### Q: Can you support Immersive Portals / add your own BOTI
-A: no we will not officially support immersive portals, we did once before but it was buggy, broke a lot, crashed a lot and had plenty of other issues. 
-Yes we are adding our own BOTI (slowly), we kinda have it right now in the form of seeing the vortex from inside when you are in flight. Yes it will be similar to immersive portals in the sense of seamless teleport. When will it be out?... When its done!
+A: no we will not officially support immersive portals, we did once before but it crashed a lot and had plenty of other issues. 
+Yes we are adding our own BOTI (slowly), we kinda have it right now in the form of seeing the vortex from inside when you are in flight. Yes it will be similar to immersive portals in the sense of seamless teleport. When will it be out?... When its done!!

@@ -27,3 +27,4 @@ The device will point to the centre of the **Rift Chunk**, when you are at the c
 ![Rift Scanner Recipe](images/rift-chunks/rift_entity.png)
 
 These can spawn in rift chunks,if you right click on them they have a chance of either; dropping a Coral Fragment, Paper, or placing some Coral Blocks around its area. You can also recharge the sonic if you hold it and Right Click the Rift.
+<br>If you use the Sonic Screwdriver in **Interact Mode** on a rift, it will drop TARDIS coral 100% of the time.

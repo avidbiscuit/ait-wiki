@@ -8,12 +8,11 @@ params:
 
 ![Image of Console Generator](images/console.png)
 
-The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS should always be piloted by 6 fully-trained TARDIS pilots as to allow for a smooth journey.
-You might notice that it emits a nice ambiance,dont let that distract you though.
+The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS should always be piloted by 6 fully trained TARDIS pilots as to allow for a smooth journey. You might notice that it emits a nice ambiance, don’t let that distract you though.
 
 Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that do different functions.
 
-## How do I create get console?
+## How do I create / get console?
 ![Image of Console Generator](images/console/generator.png)
 
 To create a console, once you have fully grown a Tardis there will be a Soul Sand block where the console should be. Place a Coral Growth on that Soul Sand Block and make sure to light up the area, after a while a console will grow. 
@@ -43,15 +42,15 @@ The **Increment Control** is a special control, however; it goes from 1-10-100-1
 
 The **Coordinate System** (X, Y and Z) require you to right-click to decrease the increment from the current position and require you to left-click to increase the increment from the current position. 
 
-The **Dimension Control** will change the destination dimension from one dimension to another. Right-click the control to change the dimension.
+The **Dimension Control** will change the destination dimension. Right-click the control to change the dimension.
 
-The **Exterior Facing Control** will change which direction exterior faces next time you land ranging from North, East, South and West. Right-click the control to change the facing clockwise.
+The **Exterior Facing Control** will change which direction your exterior faces next time you land. This ranges from North, East, South and West. Right-click the control to change the facing clockwise. Four intercardinal directions are also available (North East, South East, South West and North West)
 
 The **Fast Return Control** will set the destination coordinates to the last location the TARDIS landed. Right-click the Fast Return control to activate fast return, click it again to set the destination to your current location.
 
 The [**Protocol Controls**](../../mechanics/tardis/protocols ) are explained in this webpage.
 
-The **Anti-Gravity Control** will make the TARDIS exterior immune to falling, but uses [**Artron Energy**](../../mechanics/artron) while activating.
+The **Anti-Gravity Control** will make the TARDIS exterior immune to falling, but uses [**Artron Energy**](../../mechanics/artron) while activated.
 
 The [**Waypoint Controls**](../../items/cartridge) are better explained in this webpage.
 
@@ -73,7 +72,11 @@ The **Randomiser Control** does exactly what is says on the tin. This control ra
 
 The **Shield Control** has 2 functional modes, being visible shields and invisible shields, find more information in the [mechanics section](../../mechanics/tardis/shields).
 
-The **Telepathic circuits** have 3 functions,the first one is locating the closest sturcture, the second one is if you have a nether star and you use it on them it'll initiate self destruction, the last one is (if in siege mode) using the brick item, observer block, and quartz block it will change how the siege exterior looks.  
+The **Telepathic circuits** have 3 functions:
+1) Locating the closest structure
+2) If you have a nether star and right-click the telepathic circuits it will initiate the self-destruct of your TARDIS. 
+3) (If in siege mode) using the brick item, observer block, and quartz block it will change how the siege exterior looks
+
 
 {{< callout type="info" >}}
   Controls can be hit by mobs, explosions and projectiles, The console can also emit redstone.

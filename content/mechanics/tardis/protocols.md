@@ -48,14 +48,14 @@ Hail Mary Mode also requires [Artron energy](../../mechanics/artron) to operate,
 On the console, find "Protocol 19" and use a key linked to that TARDIS and click on the control. Once that's done, anyone that has a key that's linked to the current TARDIS can use the console, but anyone without a linked key cannot interact with it at all, though via the security menu you're able to change what loyalty ranking players are allowed to interact with the console while P19 is active.
 
 # Protocol 000 (AKA ***Self-Destruct***)
-This is a special kind of protocol that cannot be triggerd via its own button, instead give the TARDIS a nether star via the telepathic circuits,this sends out the message "SELF DESTRUCT INITIATED ABORT SHIP" to anyone in the interior, once everyone has vacated the interior the TARDIS locks itself as the TARDIS star within goes critial and blows up, resulting in a medium sized explosion where the TARDIS was.
+This is a special kind of protocol that cannot be triggerd via its own button, instead give the TARDIS a nether star via the telepathic circuits,this sends out the message "SELF DESTRUCT INITIATED ABORT SHIP" to anyone in the interior, once everyone has vacated the interior the TARDIS locks itself as the TARDIS star within goes critical and blows up, resulting in a medium sized explosion where the TARDIS was.
 {{< callout type="warning" >}} Once self destruct is enabled it cannot be stopped, so you better only let trustworthy people get inside your TARDIS, incase it is activated grab whatever you can from your interior. Once Protocol 000 is activated there is no getting your old TARDIS back. {{< /callout >}}
 
 # Protocol 515
-This can be use for emergency escapes. Why? It dumps all your artron and immidetly travels to your destination, but (as a side effect) it does 1000 damage to each Circuit (aside the Gravitational circuit).
+This can be used for emergency escapes. How? It dumps all your artron and immediately travels to your destination, but (as a side effect) it does 1000 damage to each Circuit (aside from the Gravitational circuit).
 
 # Protocol 54
-It produces an electric shock around the exterior, if someone is near to the "electrocution zone", it gives them a the following effects as a result;
+It produces an electric shock around the exterior, if someone is near the "electrocution zone", it gives them the following effects as a result;
 * darkness
 * slowness
 * poison

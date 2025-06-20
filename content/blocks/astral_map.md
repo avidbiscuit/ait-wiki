@@ -9,7 +9,7 @@ params:
 
 ![Astral Map](images/astral_map.png)
 ## What Is It Used For?
-When placed inside of a TARDIS, it lets you select different structures located throughout the game. examples being:
+When placed inside of a TARDIS, it lets you select different structures located throughout the game. Examples being:
 ---
 >- Cult Structures
 >- Ancient Cities

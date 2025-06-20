@@ -8,7 +8,8 @@ params:
 
 
 ![Painting](images/gallifrey_falls.png)
-It's Gallifrey Falls! wowowowowowowowow!
+It's Gallifrey Falls!
+Inspired by the artwork seen in ***Day of The Doctor***
 
 ## Crafting Recipe?
 

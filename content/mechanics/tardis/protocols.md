@@ -23,7 +23,8 @@ all systems are powered down. Including **life support**. While in Siege Mode, t
 
 As mentioned earlier, the TARDIS shrinks the exterior to a smaller and more protected version, this includes shrinking it weight. The TARDIS
 is now able to be picked up by any third-party who comes across it, this is why it is highly suggested to activate your TARDIS **handbrake** 
-while Siege Mode is activated to prevent such an event occurring.
+while Siege Mode is activated to prevent such an event occurring. [Artron Energy](../../mechanics/artron)
+
 
 # Protocol 3 (AKA **Cloak Mode**)
 Cloak Mode is a function on your TARDIS console designed to keep the TARDIS hidden when the chameleon circuit is faulty. Cloak Mode 

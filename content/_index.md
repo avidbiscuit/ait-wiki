@@ -9,7 +9,7 @@ type: docs
 
 Welcome to the **Adventures In Time: Wiki**, Here you can find out on the most useless features to the best ones in the mod to even learning about making datapacks for the mod! 
 
-## How do I get AIT's public releases?
+## Where do I get the Official AIT public release?
 
 AIT can be found on [Modrinth](https://modrinth.com/mod/ait) and can also be found on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
@@ -19,10 +19,10 @@ Yes, in [Amble Labs](https://discord.gg/D5Et6Ux7BS) where you can talk about the
 
 ## I've made a super cool mod for AIT! But I don't know where to publish it?
 
-Oooh! In [AIT Additons](https://discord.gg/aYEtPD24bF) Discord Server we'll love to make a channel dedicated to talking about your addon, you can share your progress, get bug reports and suggestions and even catch up people with your changes! People can also play with your addons with other **AIT Addons** in the **AIT Additions Minecraft Server**
+Oooh! In [AIT Additons](https://discord.gg/aYEtPD24bF) Discord Server we would love to make a channel dedicated to talking about your addon, you can share your progress, get bug reports and suggestions and even catch up people with your changes! People can also play with your addons with other **AIT Addons** in the **AIT Additions Minecraft Server**
 
 ## Where can I start?
-You can learn on about the Mod through out these groups:
+You can learn about the AIT mod in these tabs below:
 {{< cards >}}
   {{< card link="blocks/" title="Blocks" image="images/blocks.png" subtitle="Information on about blocks that you can find in Adventures In Time!" >}}
   {{< card link="changelogs/" title="Changelogs" image="images/changelog.png" subtitle="Information on what each update adds from 1.1.0 to 1.2.0!" >}}

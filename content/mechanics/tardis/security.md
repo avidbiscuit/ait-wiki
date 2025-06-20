@@ -15,7 +15,7 @@ Feel like locking the door isn't enough? No worries as if you go into your [**Co
 Here you can see when your TARDIS has been built, and you can change some Security settings.
 
 ## Leave Behind
-When activating this feature any other guest that doesn't have a **TARDIS key** (that is linked to your TARDIS) will be left behind  when taking off. This feature is inspired by the Doctor WHO episode "Blink"
+When activating this feature any other guest that doesn't have a **TARDIS key** (that is linked to your TARDIS) will be left behind  when taking off. This feature is inspired by the Doctor Who episode "Blink"
 
 ## Hostile Alarms
 When this feature has been activated any hostile mobs that enter the **TARDIS** will trigger the **Cloister Bell** until you have manually turned it off

@@ -11,5 +11,5 @@ params:
 It's a cable you connect to the [Generalized Subsystem Core](../../blocks/generalized_subsystem_core.md) and then back to the TARDIS' Engine.
 
 
-## How do i craft it?
+## How do I craft it?
 ![Recipe of the artron cable](images/engine_stuff_blocks/acr.png)

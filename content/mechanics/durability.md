@@ -14,25 +14,25 @@ Yes yes i get it durability might seem scary at first but fear not as our durabi
 
 * Subsystems/circuits do not break when they get to 0 durability,they just stop working till you repair them.
 
-* The only exeption for this is the demat circuit which can break due to engine phasing.
+* The only exception for this is the demat circuit which can break due to engine phasing.
 
-## What if i run out of durability?
+## What if I run out of durability?
 
-Depends,circuits/subsystems wont break if you run out of it but they'll malfunction, as an example.
+Depends, circuits/subsystems won't break if you run out of durability but they'll malfunction, as an example.
 
 * Chameleon circuit will randomize instead of selecting the designated exterior.
 
 * Demat circuit can engine phase if under 300 durability.
 
-## How do i see durability?
+## How do I see durability?
   Sonic in scanning mode.
 
 ## How does durability go down?
 
-* For the engine durability slowly goes passivly down over time.
+* For the engine, durability goes down passively over time.
 
-* For the other circuits/subsystems that have durability, they'll go down if the system they power is used (example if you fly with the demat circuit the demat circuits durability goes down).
+* For the other circuits/subsystems that have durability, they'll go down if the system they power is used (example: if you fly with the demat circuit the demat circuits durability goes down).
 
-## How do i increase / fix low durability systems?
+## How do I increase / fix low durability systems?
 
- You can `right click ` on the block with low durability using; iron, copper, and gold to increase the durability / repair it.
+ You can `right click ` on the block with low durability using; Iron, Copper, and Gold to increase the durability / repair it.

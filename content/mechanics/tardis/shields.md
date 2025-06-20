@@ -16,4 +16,4 @@ The shields have 2 modes:
  + Activate them by shift left clicking or just right clicking the shield control when the invisible shields are active.
 
 Once you activate the shields they start off by default as invisible.
-***NOTE: SHIELDS USE ARTRON ENERGY WHILE ACTIVE, MAKE SURE TO CHECK YOUR FUEL SUPPLY BEFORE ACTIVATING THIS PROTOCOL***
+<br>***NOTE: SHIELDS USE ARTRON ENERGY WHILE ACTIVE, MAKE SURE TO CHECK YOUR FUEL SUPPLY BEFORE ACTIVATING THIS PROTOCOL***

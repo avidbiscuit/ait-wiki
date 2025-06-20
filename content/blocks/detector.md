@@ -25,7 +25,7 @@ The Interior Detector has 7 modes:
 - **Red** (If The TARDIS alarm is activated)
 - **Purple** (If The TARDIS is in flight)
 
-**The Interior Detector** has 2 lights. one on the top and one on the bottom the light on the top indicates the mode its been set to while the light on the bottom indicates if this condtion has been met.
+**The Interior Detector** has 2 lights. One on the top and one on the bottom, the light on the top indicates the mode its been set to while the light on the bottom indicates if this condtion has been met.
 
 Right clicking on the block will make it change modes, and when the conditions of the mode has been met then it can emit a redstone signal.
 

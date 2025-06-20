@@ -15,7 +15,8 @@ When placed inside of a TARDIS, it lets you select different structures located 
 >- Ancient Cities
 >- Villages
 ---
-Clicking "SEARCH" will apply the coordinates of whatever structure is currently selected to your TARDIS, and you then can fly there.
+Clicking "SEARCH" will apply the coordinates of whatever structure is you have searched for to your TARDIS, and you then can fly there.
+***NOTE: IF A STRUCTURE IS NOT AVAILABLE YOU WILL RECEIVE A 404 WARNING***
 
 
 ## How Do I Craft It?

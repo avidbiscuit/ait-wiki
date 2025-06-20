@@ -10,6 +10,7 @@ type: docs
 ## How to link items
 On the console, find the **telepathic circuit** and right click it with the linkable item.
 Linkable items include:
+<br>
 <br>TARDIS Key
 <br>Stattenhiem Remote
 

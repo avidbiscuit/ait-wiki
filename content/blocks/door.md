@@ -8,10 +8,9 @@ params:
 
 ![Image of TTCapsule Interior Door](images/tardis_interior_door.png)
 
-The TARDIS Interior Door is an important part of the TARDIS, much like the [TARDIS Console](../console), which can be interacted with by a player. You'll need this to exit your TARDIS, as its the guarding barrier between the exterior world and your TARDIS interior.
-
+The TARDIS Interior Door is a vital part of the TARDIS, much like the [TARDIS Console](../console), which can be interacted with by a player. You’ll need this to exit your TARDIS, as it’s the barrier between the exterior world and your TARDIS interior. TARDIS doors can be mined and placed through-out the interior wherever the player requires. The door cannot be broken by hand and must be mined with a pickaxe.
 ## How Do I Create An Interior Door?
-Unlike the [TARDIS Console](../console), it is breakable and movable by the player in survival without having to cache it, and it's crafted with the recipe in a crafting table below:
+Unlike the [TARDIS Console](../console), it is breakable and movable by the player in survival. It's crafted with the recipe in a crafting table below:
 
 ![TARDIS Interior Door Recipe](images/interior_door/recipe.png)
 
@@ -24,7 +23,7 @@ If you have the **Gold, Netherite & Classic Key** Snapping your fingers (the def
 
 Opening the **Interior Door** while in flight will cause all living entities(including players) inside the **TARDIS Interior** to be sucked towards the door, sent into the vortex, and dropped out where the TARDIS decides to drop them.
 
-When you're in flight and are near the **Interior Door** you can hear the sound of the vortex and when landed (if theres lava or water infront of the TARDIS) you can hear bubbling noises! This also happens if it's raining outside too. During flight, you can see the Time Vortex (this is enabled in AIT's config, using the command `/ait-config`, you can change what it looks like in the monitor by pressing the buttons next to "hum"). For this it is recommended you turn on the shields so you dont get pulled out, and if you disable Protocol 116 (auto-pilot) your TARDIS will spin in the vortex due to the speed you're going at.
+When you're in flight and are near the **Interior Door** you can hear the vortex! When landed (if theres lava or water infront of the TARDIS) you can hear bubbling noises! This also happens if it's raining outside. During flight, you can see the Time Vortex (this is enabled in AIT’s config, using the command /ait-config. You can change what the vortex looks like in the monitor by pressing the buttons next to “hum”). For this, it is recommended you turn on the shields so you don’t get pulled out, and if you disable Protocol 116 (auto-pilot) your TARDIS will spin in the vortex due to the speed you’re going at. 
 
 ![Police Box Interior Door](images/interior_door/policebox_interior_door.png)
 

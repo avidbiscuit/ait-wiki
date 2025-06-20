@@ -23,7 +23,7 @@ If you have the **Gold, Netherite & Classic Key** Snapping your fingers (the def
 
 Opening the **Interior Door** while in flight will cause all living entities(including players) inside the **TARDIS Interior** to be sucked towards the door, sent into the vortex, and dropped out where the TARDIS decides to drop them.
 
-When you're in flight and are near the **Interior Door** you can hear the vortex! When landed (if theres lava or water infront of the TARDIS) you can hear bubbling noises! This also happens if it's raining outside. During flight, you can see the Time Vortex (this is enabled in AIT’s config, using the command /ait-config. You can change what the vortex looks like in the monitor by pressing the buttons next to “hum”). For this, it is recommended you turn on the shields so you don’t get pulled out, and if you disable Protocol 116 (auto-pilot) your TARDIS will spin in the vortex due to the speed you’re going at. 
+When you're in flight and are near the **Interior Door** you can hear the vortex! When landed (if there's lava or water infront of the TARDIS) you can hear bubbling noises! This also happens if it's raining outside. During flight, you can see the Time Vortex (this is enabled in AIT’s config, using the command /ait-config. You can change what the vortex looks like in the monitor by pressing the buttons next to “hum”). For this, it is recommended you turn on the shields so you don’t get pulled out, and if you disable Protocol 116 (auto-pilot) your TARDIS will spin in the vortex due to the speed you’re going at. 
 
 ![Police Box Interior Door](images/interior_door/policebox_interior_door.png)
 

@@ -7,7 +7,7 @@ params:
 ---
 ![zeiton cobble](images/zcb.png)
 ## What Is It Used For?
-Since 1.2.0, Zeiton Cobble is used in a single recipe, and is usually used as a decoration block.
+Since 1.2.0, Zeiton Cobble is used in a single recipe, and is typically used as a decoration block.
 
 ## Recipe
 ![Recipe for zeiton cobble](images/zcr.png)

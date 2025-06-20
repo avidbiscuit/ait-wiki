@@ -12,10 +12,10 @@ The TARDIS console is the main control unit of the TARDIS, which can be interact
 
 Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that do different functions.
 
-## How do I create / get console?
+## How do I create / get a console?
 ![Image of Console Generator](images/console/generator.png)
 
-To create a console, once you have fully grown a Tardis there will be a Soul Sand block where the console should be. Place a Coral Growth on that Soul Sand Block and make sure to light up the area, after a while a console will grow. 
+To create a console, once you have a fully grown TARDIS there will be a Soul Sand block where the console should be. Place a Coral Growth on that Soul Sand Block and make sure to light up the area, after a while a console will grow. 
 
 A Console Generator is not needed when first getting the console but you can still craft it. You are provided with one Console Generator when you configure the console. Although it can be used if you want multiple consoles. 
 

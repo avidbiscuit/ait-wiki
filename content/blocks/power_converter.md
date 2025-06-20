@@ -8,8 +8,8 @@ params:
 ![Image of the power convertor](images/engine_stuff_blocks/pc.png)
 
 ## How Is It Used?
-The power converter is used to convert; zeiton shards,fuel items/blocks, and the coral blocks into AU for your TARDIS!
-You'll have to link it up to the Engine via Artron Links for it to work though.
+The power converter is used to convert; Zeiton Shards, fuel items & blocks (Coal Blocks), and the Coral blocks into AU for your TARDIS! 
+You’ll have to link it up to the Engine via Artron Links (Artron Cables) for it to work.
 
 ## Recipe
 

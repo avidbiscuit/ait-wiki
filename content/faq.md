@@ -30,7 +30,7 @@ A: Make sure you have power on. If you use Iris or any of its derivatives then m
 A: Make sure you have power on. If you use Iris or any of its derivatives then make sure you're using 1.0.5+ of AIT, or 1.0.6+ if you're on Forge.
 
 #### Q: What mods are incompatible with AIT?
-A: Bellow is the ones we currently know about, if you know of any not listed here please feel free to inform us!
+A: Below are the ones we currently know about, if you know of any not listed here please feel free to inform us!
 
 | Immersive Portals : Stops people from being able to enter / exit the tardis. |
 
@@ -64,7 +64,7 @@ A: Beta testers? I don't know what you're talking about.
 A: [Here](https://modrinth.com/mod/ait).
 
 #### Q: Can I get my [something] added?
-A: No, end of discussion. If we feel like it fits, we will contact you directly.
+A: No, end of discussion. If we feel like it fits, we will contact you directly. For making suggestions for the mod please use the correct channel in our [Discord Server](https://discord.gg/WjKhRjavCj)
 
 #### How do I get beta builds?
 A: Donators, beta testers, team members and some addon developers get access to beta builds. To become a donator you can support Loqor [here](https://ko-fi.com/loqor).

@@ -10,7 +10,7 @@ params:
 
 The **Wall Monitor** is another way to change your settings, customise your TARDIS and view TARDIS info, but on your wall, giving you those groovy classic vibes!
 
-The TARDIS Menu is included with the [**TARDIS Console**](../console) and the [Monitor](../monitor) but you can craft it as a block and can use it on your wall in your interior.
+The TARDIS Menu is included with the [**TARDIS Console**](../console) and the [Monitor](../monitor) but you can craft it as a block and can use it in your interior.
 ![Monitor Menu](images/monitor/screen.png)
 
 ## Recipe

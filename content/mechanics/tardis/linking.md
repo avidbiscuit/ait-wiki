@@ -10,9 +10,9 @@ type: docs
 ## How to link items
 On the console, find the **telepathic circuit** and right click it with the linkable item.
 Linkable items include:
-<ul> TARDIS Key
-     Stattenhiem Remote
-</ul>
+TARDIS Key<br>
+Stattenhiem Remote
+
 
 ## How come my sonic isn't linking?
 For the sonic screwdriver specifically, you will need to insert it into the **sonic port** for it to link properly.

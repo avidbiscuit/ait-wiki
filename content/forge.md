@@ -12,6 +12,8 @@ type: docs
 
 - [YACL (Forge)](https://modrinth.com/mod/yacl/versions?l=forge)
 
+- [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.20.1)
+
 - [Hammer (at the bottom of the download page)](https://modrinth.com/mod/ait/version/1.0.0+1.2.7) `only needed for servers!`
 
 

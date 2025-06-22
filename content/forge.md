@@ -16,7 +16,7 @@ type: docs
 
 
 
-## Q&A
+## FAQ
 
 #### Q: Why doesn't BOTI work, glitch my screen?
 A: install the `Chloride` mod with the `embeddium` mod!
@@ -29,3 +29,8 @@ A: On the ait github page, but make sure to select `Forge` under the `Mod loader
 
 #### Q: When will forge updates come out?
 A: Some time after the fabric update (could be weeks, could be months).
+
+
+## Incompatable mods!
+###### `this list will expand based on reported issues`
+-----

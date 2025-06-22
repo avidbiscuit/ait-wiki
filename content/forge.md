@@ -32,6 +32,9 @@ A: On the ait github page, but make sure to select `Forge` under the `Mod loader
 #### Q: When will forge updates come out?
 A: Some time after the fabric update (could be weeks, could be months).
 
+#### Q: My blocks stop breaking with AIT forge?
+A: this is an use with block tags, using the [Load my F***ing Tags](https://modrinth.com/mod/lmft) mod seems to fix this.
+
 
 ## Incompatable mods!
 ###### `this list will expand based on reported issues`

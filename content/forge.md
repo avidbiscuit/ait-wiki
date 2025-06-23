@@ -37,5 +37,6 @@ A: This is an issue with block tags, using the [Load my F***ing Tags](https://mo
 
 
 ## Incompatable mods!
-###### `this list will expand based on reported issues`
------
+###### `this list will expand based on reported issues!`
+
+#### - OptiFine.

@@ -14,7 +14,7 @@ type: docs
 
 - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.20.1)
 
-- [Hammer (at the bottom of the download page)](https://modrinth.com/mod/ait/version/1.0.0+1.2.7) `only needed for servers!`
+- [Hammer (at the bottom of the download page)](https://modrinth.com/mod/ait/version/1.0.0+1.2.7) `only needed for servers (only put mod in the servers mods folder, never your / the clients mods folder!`
 
 
 

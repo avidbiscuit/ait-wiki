@@ -42,10 +42,10 @@ A: Below are the ones we currently know about, if you know of any not listed her
 A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8. Here's a list of tested shaders:
 | Works | Buggy | Unsupported |
 |-------|-------|-------------|
-| BSL | Noble | Rethinking Voxels |
+| Rethinking Voxels | Noble |  |
 | Complementary | Soft Voxels Lite |
 | Lux v1 | Miniature | |
-| MakeUp | | |
+| MakeUp | BSL | |
 | Solas | | |
 | Super Duper Vanilla | | |
 | Insanity | | |

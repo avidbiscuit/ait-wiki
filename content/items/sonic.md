@@ -51,7 +51,7 @@ The sonic has 5 modes, those being:
 - Confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
 - In addition,hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability,
 - You can also scan blocks and entities for info such as; health, required mining tool, and blast resistance. 
-- It also allows the ability see where your tardis is by `right clicking` on a Zeiton Cluster or Bell blocks. 
+- It also allows the ability see where your tardis is by `right clicking`on a Zeiton Cluster or Bell blocks. 
 
 #### TARDIS Mode
 **TARDIS** mode allows the Sonic Screwdriver to;

@@ -34,19 +34,31 @@ The sonic has 5 modes, those being:
 **Inactive** mode renders the Sonic Screwdriver unusable, this will be used as a form of power saving mode for the Sonic Screwdriver.
 
 #### Interaction Mode
-**Interaction** mode allows the Sonic Screwdriver to ignite candles, campfires and unlit torches. It can also change repeaters delay and mode.
+**Interaction** mode allows the Sonic Screwdriver to;
+- Ignite candles, campfires and unlit torches,
+- Change repeaters delay and mode.
 
 #### Overload Mode
-**Overload** mode allows the Sonic Screwdriver to ignite TNT and toggle redstone lamps! It can also shatter glass blocks.
+**Overload** mode allows the Sonic Screwdriver to;
+- Ignite TNT,
+- Toggle redstone lamps,
+- Shatter glass blocks.
 
 
 #### Scanning Mode
-**Scanning** mode allows the Sonic Screwdriver to tell you what console controls are by hovering over the [**Control Entities**](../../blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes. It will also confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
-In addition,hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability. You can also scan blocks and entities for info such as; health, required mining tool, and blast resistance.
+**Scanning** mode allows the Sonic Screwdriver to;
+- Tell you what console controls are by hovering over the [**Control Entities**](../../blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes. 
+- Confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
+- In addition,hovering over a generalized subsystem core will tell you the durability of the subsystem that it holds if the circuit has durability,
+- You can also scan blocks and entities for info such as; health, required mining tool, and blast resistance. 
+- It also allows the ability see where your tardis is by `right clicking`on a Zeiton Cluster or Bell blocks. 
 
 #### TARDIS Mode
-**TARDIS** mode allows the Sonic Screwdriver to set the destination of the TARDIS wherever you right-click, as long as it's available to land, and deactivates the handbrake.
-If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned to the location of choice,however you do need the "PILOT" rank (loyalty),in addition looking up in the interior and using the sonic triggers demat and looking down activates the handbrake and refuels the TARDIS. When you are inside your Tardis and the sonic is linked to said Tardis (when its placed in your offhand) you can activate the sonic the tardis will takeoff.
+**TARDIS** mode allows the Sonic Screwdriver to;
+- Set the destination of the TARDIS wherever you right-click (as long as it's available to land, and deactivates the handbrake).If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned to the location of choice,however you do need the "PILOT" rank (loyalty),
+- Looking up (in the interior) and using the sonic triggers demat, 
+- Looking down activates the handbrake and refuels the TARDIS.
+- When you are inside your Tardis and the sonic is linked to said Tardis (when its placed in your offhand) you can activate the sonic the tardis will takeoff.
 
 ## Sonic Settings & Configuration
 By default, you receive the "Prime" when crafting it or by getting it from the creative menu but there is a way to modify the Sonic Screwdriver casing, check it's power, see what TARDIS it's linked to and what casing it has.

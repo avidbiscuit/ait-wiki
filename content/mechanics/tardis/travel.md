@@ -6,10 +6,10 @@ type: docs
 ## How do i start flying around?
 
 * Make sure you have enough power for your trip
-* Disable the handbrake if its active
+* Disable the handbrake if it's active
 * Pull the throttle up to any level you wish and take off
 * When you reach your destination push the throttle back down
-* However during flights you'll have to do "flight event"
+* However, during flights you'll have to do "flight event" **unless you have Protocol 116 enabled**
 
 
 ## What flight events are there?
@@ -82,10 +82,10 @@ type: docs
 2. Refueler
 3. Randomizer
 
-## I have dementia what do i do?
+## I have dementia what do I do?
 
-* Fear not,simply shove the sonic in scanning mode into the port,now you'll be told what to press to complete a fight event.
+* Fear not, simply put the sonic in scanning mode and into the sonic port on the console, now you'll be told what to press to complete a flight event.
 
-## Turns out i acctualy suck at flying the tardis even WITH the warnings,what do i do?
+## Turns out I actually suck at flying the TARDIS even WITH the warnings, what do I do?
 
-* Auto pilot is somthing you can use to turn off flight events,however it caps your speed 1-2 low and you wont be able to gain loyalty.
+* Auto pilot is something you can use to turn off flight events, however it caps your speed low and you won't be able to gain loyalty.

@@ -5,7 +5,7 @@ type: docs
 
 ## Protocols are controls on the TARDIS console that function to make your playthrough easier, here they are explained out for you to better understand what function they serve when activated.
 
-Protocols are controls on the tardis console that function to make your playthrough easier, 
+Protocols are controls on the TARDIS console that function to make your playthrough easier, 
 here we have laid them out for you to better understand what function they serve when activated.
 
 To locate where these controls are on the console, use the [**Sonic Screwdriver**](../../items/sonic)

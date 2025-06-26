@@ -3,8 +3,8 @@ title: Protocols
 type: docs
 ---
 
-Protocols are controls on the TARDIS console that function to make your playthrough easier, 
-here are them played out for you to better understand what function they serve when activated.
+<h1>Protocols are controls on the TARDIS console that function to make your playthrough easier, 
+here are them played out for you to better understand what function they serve when activated.</h1>
 =======
 Protocols are controls on the tardis console that function to make your playthrough easier, 
 here we have laid them out for you to better understand what function they serve when activated.

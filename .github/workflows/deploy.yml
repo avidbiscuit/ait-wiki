@@ -17,8 +17,8 @@ permissions:
 
 # Ensure only one deployment runs at a time
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "pages-deployment"
+  cancel-in-progress: true
 
 # Default shell for all steps
 defaults:

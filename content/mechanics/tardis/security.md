@@ -1,5 +1,5 @@
 ---
-title: Security Protocals
+title: Security Protocols
 type: docs
 ---
 

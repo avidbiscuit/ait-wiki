@@ -66,5 +66,5 @@ It produces an electric shock around the exterior, if someone is near the "elect
 * weakness
 * hunger
 * mining fatigue
-* regeneration
+...
 

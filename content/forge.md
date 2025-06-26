@@ -30,4 +30,5 @@ A: Some time after the fabric update (could be weeks, could be months).
 ## Incompatable mods!
 ###### `this list will expand based on reported issues!`
 
-#### - OptiFine.
+- OptiFine.
+- C2ME (Concurrent Chunk Management)

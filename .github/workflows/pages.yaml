@@ -82,6 +82,7 @@ jobs:
 
   # Deploy job
   deploy:
+    timeout-minutes: 5
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

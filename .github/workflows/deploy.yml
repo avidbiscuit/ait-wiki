@@ -8,6 +8,7 @@ on:
       - 'content/**'
       - 'layouts/**'
       - 'static/**'
+      - 'hugo.yaml'
 
   # Allow manual workflow execution
   workflow_dispatch:

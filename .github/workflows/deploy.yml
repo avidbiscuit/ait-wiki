@@ -3,8 +3,11 @@ name: Deploy Hugo Sites to Pages
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - 'assets/**'
+      - 'content/**'
+      - 'layouts/**'
+      - 'static/**'
 
   # Allow manual workflow execution
   workflow_dispatch:

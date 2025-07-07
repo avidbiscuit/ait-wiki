@@ -24,7 +24,9 @@ params:
 - ### The Personality Matrix
 ![Image](images/coral_setup/personality.png)
 - When the bar is full, it will break and drop the Personality Matrix, if you hover over the item and press shift you may notice that is has a random color hex code and random name. Take the Personality Matrix into your newly grown coral and throw it into any water source, you will then be asked to leave the TARDIS so it can finish building.
+### THIS WILL MEAN THE TARDIS INTERIOR WILL BE WIPED AND YOU WILL LOSE EVERYTHING YOU HAVE PLACED INSIDE!!!
 
+----------------------
 
 - ### REMINDER!
 

@@ -6,7 +6,9 @@ params:
         - blocks/images/sms/sms2.png
 ---
 
+## How do i grow a tardis?
 
+You need [Coral Growth](https://amblelabs.github.io/ait-wiki/items/coral/) To grow a tardis (same for growing a console).
 
 ## How do I complete growing the tardis?
 

@@ -31,3 +31,5 @@ type: docs
 - Replace the **(name_space)** with the mod ID.
 
 - Replace **(disc_name)** with the name of the disc item.
+
+- If you want to add more items, add a `,` after ```"(name_space:disc_name)"``` then on a new like add ```"(name_space:disc_name)"```

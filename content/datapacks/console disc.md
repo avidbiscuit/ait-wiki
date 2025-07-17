@@ -15,7 +15,7 @@ type: docs
 
 - Create a new **.json** file in the path
 
-> `data/ait/tags/items/insertabled_discs.json`
+> `data/ait/tags/items/insertable_discs.json`
 
 - Inside this new .json file, paste
 

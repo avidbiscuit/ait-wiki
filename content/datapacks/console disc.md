@@ -28,6 +28,6 @@ type: docs
 >}
 > ```
 
-- Replace the **(name_space)** with one of the mod ID of the item.
+- Replace the **(name_space)** with the mod ID of the item.
 
 - Replace **(disc_name)** with the name of the disc item.

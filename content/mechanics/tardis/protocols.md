@@ -52,7 +52,11 @@ On the console, find "Protocol 19" and use a key linked to the current TARDIS an
 
 # Protocol 000 (AKA ***Self-Destruct***)
 This is a special kind of protocol that cannot be triggerd via its own button, instead give the TARDIS a **Nether Star** via the telepathic circuits, this sends out the message "SELF DESTRUCT INITIATED ABORT SHIP" appear to anyone in the interior. Once everyone has vacated the interior the TARDIS deadlocks itself as the TARDIS star within goes supernova and blows up, resulting in a medium sized explosion where the TARDIS was.
+
+**PLEASE NOTE THAT THIS REQUIRES THE PLAYER TO HAVE PILOT LOYALTY**
+
 {{< callout type="warning" >}} Once self destruct is enabled it cannot be stopped,so you better only let trustworthy people get inside your TARDIS, incase it is activated grab whatever you can from your interior. Once your TARDIS is destroyed it is not possible to retrieve destroyed items from it. {{< /callout >}}
+
 
 # Protocol 515 (AKA Emergency Land / Artron Dump)
 This protocol can be used for emergency escapes. How? It dumps all your artron and immediately travels to your destination, but (as a side effect) it does 1000 damage to each Circuit (aside from the Gravitational circuit).

@@ -12,11 +12,11 @@ The TARDIS Environment Projector is a fun way to change the TARDIS Interior skyb
 
 This block can display the skybox from any dimension *****as seen below***** (it can even work with other mod's dimensions too! as long as they set it up correctly...)
 
-![Environment Projector Recipe](images/enviroment_projector/env_space.png)
+![Environment Projector Recipe](images/environment_projector/env_space.png)
 
 ## How Do I Craft An Environment Projector?
 
-![Environment Projector Recipe](images/enviroment_projector/recipe.png)
+![Environment Projector Recipe](images/environment_projector/recipe.png)
 
 ## How Do I Use the Environment Projector?
 
